@@ -1,0 +1,3013 @@
+{
+  "current": {
+    "tfcode": "f1c3da5d-401b-476c-b0b7-e8ca545ce273",
+    "color_primary": "#50324c",
+    "color_sub": "#e8dac7",
+    "color_body": "#000000",
+    "color_tertiary": "#1a1a1a",
+    "color_altenative": "#e7e9f3",
+    "color_heading": "#282828",
+    "color_line": "#e7e9f3",
+    "color_header_text": "#27272f",
+    "color_header_border": "#e7e8eb",
+    "color_header_bg": "#ffffff",
+    "color_topheader_text": "#27272f",
+    "color_topheader_border": "#e7e8eb",
+    "color_topheader_bg": "#ffffff",
+    "color_caption_text1": "#ffffff",
+    "color_caption_text2": "#ffffff",
+    "color_caption_btnnextprev_text": "#ffffff",
+    "color_caption_btnnextprev_bg": "#525259",
+    "color_bullet": "#ffffff",
+    "color_bullet_hover": "#91ad41",
+    "color_pricecart_text": "#ababab",
+    "color_cartdropdown_text": "#696969",
+    "color_cartdropdown_border": "#efefef",
+    "color_cartdropdown_bg": "#ffffff",
+    "color_btnclose_text": "#ababab",
+    "color_btnclose_border": "#fff",
+    "color_btnclose_bg": "#ffffff",
+    "color_newletter_title_text": "#ffffff",
+    "color_newletter_text": "#ffffff",
+    "color_newletter_border": "#363636",
+    "color_newletter_bg": "#ffffff",
+    "color_footer_title_text": "#27272f",
+    "color_footer_text": "#8b8b99",
+    "color_footer_text_hover": "#54717b",
+    "color_footer_border": "#ffffff",
+    "color_footer_bg": "#ffffff",
+    "color_copyright_border": "#ffffff",
+    "color_copyright_text": "#8b8b99",
+    "color_copyright_text_hover": "#91ad41",
+    "color_copyright_link": "#ffffff",
+    "color_copyright_bg": "#f7eee2",
+    "color_newlabel": "#f48086",
+    "color_bestlabel": "#f2525c",
+    "color_trendlabel": "#e3b375",
+    "color_deallabel": "#6e96fa",
+    "color_product_title_text": "#27272f",
+    "color_product_title_text_hover": "#54717b",
+    "color_product_description_text": "#8b8b99",
+    "color_price_text": "#54717b",
+    "color_price_compare_text": "#8b8b99",
+    "color_rating_text": "#fbce1d",
+    "color_price_text_detail": "#54717b",
+    "color_price_compare_text_detail": "#696969",
+    "color_price_bg_detail": "#91ad41",
+    "color_navigation_text": "#000000",
+    "color_navigation_border": "#e5e6ec",
+    "color_navigation_bg": "#ffffff",
+    "color_navigation_text_hover": "#007b6b",
+    "color_subnavigation_text": "#000000",
+    "color_subnavigation_text_hover": "#007b6b",
+    "color_pagination_text": "#8b8b99",
+    "color_pagination_text_hover": "#ffffff",
+    "color_pagination_border": "#f5f6fb",
+    "color_pagination_border_hover": "#91ad41",
+    "color_pagination_bg": "#f5f6fb",
+    "color_pagination_bg_hover": "#91ad41",
+    "color_button_text": "#ffffff",
+    "color_button_border": "#79057e",
+    "color_button_bg": "#79057e",
+    "color_btn_text1": "#8d8d99",
+    "color_btn_border1": "#8d8d99",
+    "color_btn_bg1": "#ffffff",
+    "color_btn_text2": "#28292a",
+    "color_btn_border2": "#28292a",
+    "color_btn_bg2": "#ffffff",
+    "color_btn_text3": "#ffffff",
+    "color_btn_border3": "#ee2c1f",
+    "color_btn_bg3": "#ee2c1f",
+    "color_btn_text4": "#9494a1",
+    "color_btn_border4": "#f5f6fb",
+    "color_btn_bg4": "#ffffff",
+    "color_btn_text5": "#ee2c1f",
+    "color_btn_border5": "#ee2c1f",
+    "color_btn_bg5": "rgba(0,0,0,0)",
+    "color_btn_text6": "#ffffff",
+    "color_btn_border6": "#27272f",
+    "color_btn_bg6": "#27272f",
+    "use_bg_image": "",
+    "color_body_bg": "#ffffff",
+    "color_content_bg": "#ffffff",
+    "font_1": "Gilda Display",
+    "font_2": "Baskervville",
+    "nav_linklist": "main-menu",
+    "nav_sticky": true,
+    "menu_label_1": "",
+    "menu_label_2": "",
+    "mega1_title": "",
+    "mega1_col1_linklist": "all-categories",
+    "mega1_col2_linklist1": "hottest-trends",
+    "mega1_col2_linklist2": "inspiration",
+    "mega1_col3_linklist1": "collection",
+    "mega1_col3_linklist2": "line",
+    "mega1_background": "shopify:\/\/shop_images\/2_00502661-06ea-4d45-8c65-734e187b3343.png",
+    "mega2_title": "",
+    "mega2_col1_linklist": "home-page",
+    "mega2_col2_linklist": "shop",
+    "mega2_col3_linklist": "list-pages",
+    "mega3_title": "",
+    "mega3_col1_linklist": "all-categories",
+    "mega3_col2_linklist": "classic",
+    "mega3_col3_linklist": "inforgaphic",
+    "mega3_col4_linklist": "list-pages-1",
+    "general_loadingscreen": false,
+    "general_loadingscreen_logo": "shopify:\/\/shop_images\/logo.png",
+    "general_loadingscreen_color": "#ffffff",
+    "mailing_list_active": true,
+    "news_title": "A warm welcome to Sloemotion Distillery!",
+    "news_sub": "Be the first to hear about our new launches, tempting cocktail recipes, seasonal news and latest offers - Sign up here to receive our newsletter and enjoy 20% off your first order:",
+    "news_input": "Enter your email here",
+    "news_actiontext": "Sign up",
+    "mailchimp_form_action": "https:\/\/sloemotiondistillery.us4.list-manage.com\/subscribe\/post?u=c6fe97a22e424fda67cf3c707&amp;id=75b095ea36",
+    "news_time": "10",
+    "news_ignore": "Don't show me this again",
+    "mailing_bg": "shopify:\/\/shop_images\/smallhs_leaf_4.png",
+    "animationloader": true,
+    "general_gototop": true,
+    "use_bg_image_breadcrumb": "shopify:\/\/shop_images\/Shopbanner-v4.jpg",
+    "use_bg_image_breadcrumb_page": "shopify:\/\/shop_images\/bn-blog_6182ffea-e5a7-4c20-8d8c-002e1254883e.png",
+    "show_multiple_currencies": true,
+    "currency_format": "money_format",
+    "supported_currencies": "GBP",
+    "default_currency": "GBP",
+    "currency_heading": "",
+    "display_search": true,
+    "search_title": "Search something",
+    "search_auto": true,
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+    "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+    "social_google_plus_link": "",
+    "social_instagram_link": "https:\/\/instagram.com\/shopify",
+    "social_tumblr_link": "",
+    "social_youtube_link": "https:\/\/www.youtube.com\/user\/shopify",
+    "social_wordpress_link": "",
+    "social_vimeo_link": "https:\/\/vimeo.com\/shopify",
+    "social_sharing_header": true,
+    "social_sharing_products": true,
+    "social_sharing_footer": true,
+    "social_sharing_blog": true,
+    "social_sharing_count": true,
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "share_google": true,
+    "favicon": "shopify:\/\/shop_images\/greyfavicon.png",
+    "ajax_active": true,
+    "ajax_timeout": "10",
+    "label_active": true,
+    "new_active": true,
+    "new_text": "New",
+    "best_active": true,
+    "best_text": "Best",
+    "hot_active": true,
+    "hot_text": "Hot",
+    "deal_active": true,
+    "blog_background": "shopify:\/\/shop_images\/aboutbanner.png",
+    "blog_style": "default",
+    "blog_sidebar_show": true,
+    "blog_category_show": true,
+    "blog_category_title": "Our Blogs",
+    "blog_category_linklist": "categories-blog",
+    "blog_late_show": true,
+    "blog_late_title": "Latest Posts",
+    "blog_late_blog": "smoothie",
+    "blog_tags_show": true,
+    "blog_tags_title": "Tags",
+    "collection_background": "shopify:\/\/shop_images\/shopbannerz.png",
+    "collection_style": "default",
+    "collection_search_show": true,
+    "collection_search_title": "Search",
+    "collection_search_placeholder": "Search Products...",
+    "collection_colllist_show": false,
+    "collection_colllist_linklist": "all-categories",
+    "collection_filter_show": true,
+    "group_tag_1_label": "Product",
+    "group_tag_1": "Hedgerow, Sloemotion,Finders, Gift",
+    "group_tag_2_label": "Weight",
+    "group_tag_2": "5cl, 70cl, 35cl, 6 x 70cl bottles, 220g, 110g",
+    "group_tag_3_label": "Price",
+    "group_tag_3": "£20 - £40, Under £100, Above £80, Under £20, Under £10",
+    "group_tag_4_label": "",
+    "group_tag_4": "",
+    "collection_best_show": false,
+    "collection_best_title": "Best Sale",
+    "collection_best_product": "best-seller",
+    "title_404": "Oops! Something went wrong...",
+    "caption_404": "",
+    "actiontext_404": "connect to support",
+    "account_background": "",
+    "account_banner_1": "shopify:\/\/shop_images\/1_Account.jpg",
+    "account_banner_1_link": "shopify:\/\/pages\/contact-version-1",
+    "account_banner_2": "shopify:\/\/shop_images\/2_Account.jpg",
+    "account_banner_2_link": "shopify:\/\/pages\/about-us",
+    "logo_coming": "shopify:\/\/shop_images\/logo_8a09b0ec-76f6-4dbf-9812-9669364b8f61.png",
+    "password_link": "Enter using password",
+    "password_opening_soon": "We are coming soon",
+    "password_opening_datetime": "12\/30\/2017 00:00:00",
+    "password_login_form_heading": "Enter store using password:",
+    "password_login_form_password_label": "Password",
+    "password_login_form_password_placeholder": "Your password",
+    "password_login_form_submit": "Enter",
+    "password_admin_link_html": "Are you the store owner? <a href=\"\/admin\" class=\"text-link\">Log in here<\/a>",
+    "password_close": "Close (Esc)",
+    "password_bkg": "shopify:\/\/shop_images\/pass.jpg",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#327786",
+    "checkout_button_color": "#007162",
+    "checkout_error_color": "#df3232",
+    "background_404": "shopify:\/\/shop_images\/1_3f7468a1-b367-4ecd-a724-2470bd1f0cda.png",
+    "cate_title": "categories",
+    "cate_linklist": "",
+    "cate_linklist_icon": true,
+    "left1_title": "Electronics\/Motor",
+    "left1_col1_linklist": "",
+    "left1_col2_linklist": "",
+    "left1_col3_linklist": "",
+    "left1_col4_linklist": "",
+    "left1_col5_bg": "",
+    "left2_title": "Brand Fashion",
+    "left2_col1_linklist": "",
+    "left2_col2_linklist": "",
+    "left2_col3_linklist": "",
+    "left2_col4_linklist": "",
+    "left2_col5_bg": "",
+    "left3_title": "Clothing",
+    "left3_col1_linklist": "",
+    "left3_col2_linklist": "",
+    "left3_col3_linklist": "",
+    "left3_col4_linklist": "",
+    "left3_col5_bg": "",
+    "collection_vendor_show": true,
+    "collection_type_show": true,
+    "side_category_show": true,
+    "mega1_col4_image1": "",
+    "mega1_col4_image1_link": "shopify:\/\/collections\/rings",
+    "mega1_col4_image2": "",
+    "mega1_col4_image2_link": "shopify:\/\/collections\/rings",
+    "mega2_col4_linklist": "",
+    "mega2_col5_linklist": "",
+    "mega2_col6_linklist": "",
+    "mega2_col4_title": "featured categories",
+    "mega2_col4_collection": "",
+    "mega2_col4_limit": "4",
+    "mega2_col_banner": "",
+    "mega2_col_banner_link": "shopify:\/\/collections\/all",
+    "mega3_col1_logo": "",
+    "mega3_col1_banner": "",
+    "mega3_col2_logo": "",
+    "mega3_col2_banner": "",
+    "mega3_col3_logo": "",
+    "mega3_col3_banner": "",
+    "mega3_col4_logo": "",
+    "mega3_col4_banner": "",
+    "mega3_col5_logo": "",
+    "mega3_col5_banner": "",
+    "mega3_col5_linklist": "",
+    "mega4_title": "necklaces",
+    "mega4_col1_banner": "",
+    "mega4_col1_link": "shopify:\/\/collections\/rings",
+    "mega4_col2_banner": "",
+    "mega4_col2_link": "shopify:\/\/collections\/all",
+    "mega4_col3_title": "Gift",
+    "mega4_col3_linklist1": "",
+    "mega4_col3_linklist2": "",
+    "mega5_title": "blogs",
+    "mega5_col1_banner": "",
+    "mega5_col1_caption": "With <b>20+ Homepages<\/b> mauris at bibendum ex, sit amet ornare quam rerit lectus sagittis.",
+    "mega5_col1_linklist": "",
+    "mega5_col2_blog": "news",
+    "mega6_title": "bracelets",
+    "mega6_col1_linklist": "",
+    "mega6_col2_linklist": "",
+    "mega6_col3_linklist": "",
+    "mega6_col4_linklist": "",
+    "mega6_col3_image1": "",
+    "mega6_col3_image1_link": "shopify:\/\/collections\/rings",
+    "mega6_col3_image2": "",
+    "mega6_col3_image2_link": "shopify:\/\/collections\/rings",
+    "mega6_col3_image3": "",
+    "mega6_col3_image3_link": "shopify:\/\/collections\/all",
+    "blog_instagram_show": true,
+    "blog_instagram_title": "Photos from Flickr",
+    "blog_instagram_id": "7260037193",
+    "blog_accesstoken": "7260037193.1677ed0.da9734617c3b49a2b4fb60471f6256b4",
+    "blog_instagram_limit": "6",
+    "blog_recent_show": true,
+    "blog_recent_title": "Recent posts",
+    "blog_recent_blog": "news",
+    "blog_recent_number": "3",
+    "side_banner_show": true,
+    "side_banner": "",
+    "side_banner_link": "shopify:\/\/blogs\/news",
+    "collection_top_banner": "",
+    "collection_top_banner_link": "shopify:\/\/collections",
+    "collection_grid_list": true,
+    "collection_sort": true,
+    "collection_show_items": true,
+    "collection_sidebar_show": true,
+    "collection_position": "left",
+    "collection_sidebar_banner": "",
+    "collection_sidebar_banner_link": "shopify:\/\/collections",
+    "products_per_row": "4",
+    "pagination_limit": "20",
+    "mega1_col2_linklist": "",
+    "mega1_col3": "shopify:\/\/shop_images\/logo.png",
+    "mega1_col3_caption": "Vivamus nec libero gravida, semper est sed, mollis magna. Integer et iaculis eros. <br>\r\nVivamus sodales nunc mi, a congue velit velit sem, vestibulum tristique",
+    "mega1_bg": "",
+    "mega3_col3_caption": "<span class=\"title\">\r\n\tCome & Discover\r\n<\/span>\r\n<span class=\"content\">\r\n\tThe new style\r\n<\/span>",
+    "mega3_col3_action": "Shop now",
+    "mega3_col3_link": "shopify:\/\/collections\/all",
+    "mega3_bg": "",
+    "mega4_col1_linklist": "",
+    "mega4_col2_linklist": "",
+    "mega4_col3_blog": "news",
+    "color_heading_pro": "#ffffff",
+    "other_background": "",
+    "header_id": "header_1",
+    "footer_id": "footer_1",
+    "article_background": "",
+    "side_search_show": true,
+    "side_search_placeholder": "Search ports here...",
+    "side_tags_show": true,
+    "product_background": "",
+    "product_style": "v_5",
+    "product_enable_rating_star": true,
+    "product_color_swatch": "color",
+    "product_enable_quickoverview": true,
+    "product_enable_sku": true,
+    "product_enable_col": true,
+    "display_quantity_dropdown": true,
+    "product_enable_tags": true,
+    "product_display_wishlist": true,
+    "product_display_compare": true,
+    "display_tab": true,
+    "product_tab_desc": true,
+    "product_tab_desc_title": "Description",
+    "product_tab_review": true,
+    "product_tab_review_title": "Review",
+    "product_tab_shipping": false,
+    "product_tab_shipping_title": "",
+    "product_tab_shipping_desc": "",
+    "product_tab_payment": true,
+    "product_tab_payment_title": "Payment Info",
+    "product_tab_payment_desc": "<p>Dust or wipe clean with a cloth dampened with water once a week. Be sure not to leave water spots on the surface. These water spots will dry and could possibly leave permanent marks.<\/p>\n<p>Clean stains\/spots using the following steps:\nDampen a soft cloth with a mixture of hot water and liquid dishwashing detergent.\nWring the cloth as much as possible to remove excess liquid. \nRub the surface lightly in a circular motion.\nDry the surface immediately with a clean, soft towel.<\/p>",
+    "show_related_products": true,
+    "product_related_title": "Related products",
+    "collection_show": true,
+    "mega1_col3_banner": "",
+    "mega2_col4_banner": "",
+    "collection_latest_show": true,
+    "collection_latest_title": "Latest",
+    "collection_latest_product": "",
+    "nav_linklist_left": "",
+    "nav_linklist_right": "",
+    "use_bg_image_customer": "",
+    "mega1_col3_link": "shopify:\/\/collections\/all",
+    "mega2_col4_link": "shopify:\/\/collections\/all",
+    "mega3_col5_link": "shopify:\/\/pages\/about-us",
+    "banner_404": "",
+    "product_breadcrumb": "v_1",
+    "news_banner_image": "",
+    "news_sale": "up to 70% off",
+    "news_caption": "Food",
+    "product_detail_qov_lenght": "30",
+    "product_display_quantity_dropdown": true,
+    "product_display_tab": true,
+    "display_tags": true,
+    "product_tab_tags_title": "Product Tags",
+    "product_tab_payment_content": "<h2>Payment  Information<\/h2>\r\n<p>Dust or wipe clean with a cloth dampened with water once a week. Be sure not to leave water spots on the surface. These water spots will dry and could possibly leave permanent marks.<\/p>\r\n<p>Clean stains\/spots using the following steps:\r\nDampen a soft cloth with a mixture of hot water and liquid dishwashing detergent.\r\nWring the cloth as much as possible to remove excess liquid. \r\nRub the surface lightly in a circular motion.\r\nDry the surface immediately with a clean, soft towel.<\/p>",
+    "product_related_caption": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+    "color_caption_btn_nextprev": "#333",
+    "format_image_product": "circle",
+    "font_3": "Josefin Sans",
+    "use_bg_image_breadcrumb_blog": "",
+    "news_sub_image": "",
+    "new_type": "text",
+    "new_color": "",
+    "new_bkgcolor": "",
+    "best_type": "text",
+    "best_color": "",
+    "best_bkgcolor": "",
+    "hot_type": "text",
+    "hot_color": "",
+    "hot_bkgcolor": "",
+    "deal_type": "text",
+    "deal_text": "Deal",
+    "deal_color": "",
+    "deal_bkgcolor": "",
+    "trend_active": "true",
+    "trend_type": "text",
+    "trend_text": "Trend",
+    "trend_color": "",
+    "trend_bkgcolor": "",
+    "color_footer_copy_bg": "#242424",
+    "background_collection": "",
+    "mega1_col1_title": "Fashion Shop",
+    "mega1_col1_image": "shopify:\/\/shop_images\/1_1fa343d0-7083-4a09-a2c1-b7f354e59065.jpg",
+    "mega1_col1_url": "https:\/\/cs-mira-1.myshopify.com",
+    "mega1_col2_title": "Cosmetic Shop",
+    "mega1_col2_image": "shopify:\/\/shop_images\/2_83804c16-c53f-447e-b10b-15d87832d8e9.jpg",
+    "mega1_col2_url": "https:\/\/cs-mira-2.myshopify.com",
+    "mega1_col3_title": "Plant Shop",
+    "mega1_col3_image": "shopify:\/\/shop_images\/3_1583859f-5f70-4c85-b796-ff33a3d7b06f.jpg",
+    "mega1_col3_url": "https:\/\/cs-mira-3.myshopify.com",
+    "mega1_col4_title": "Pottery Shop",
+    "mega1_col4_image": "shopify:\/\/shop_images\/4_d3549b8c-be1f-4cb6-aaf9-1bfcce44be8d.jpg",
+    "mega1_col4_url": "https:\/\/cs-mira-4.myshopify.com",
+    "mega1_col5_title": "Pet Shop",
+    "mega1_col5_image": "shopify:\/\/shop_images\/5_fd28e1e2-fc28-4a79-aff0-8aa88db1c188.jpg",
+    "mega1_col5_url": "https:\/\/cs-mira-5.myshopify.com",
+    "mega2_col1_title": "Face & Body",
+    "mega2_col2_title": "New Products",
+    "mega2_col2_collection": "accessories",
+    "mega3_col1_title": "Eyes",
+    "mega3_col2_title": "New Products",
+    "mega3_col2_collection": "best-sellers",
+    "mega4_col1_title": "Lips",
+    "mega4_col2_title": "New Products",
+    "mega4_col2_collection": "mens",
+    "mega5_col1_title": "Best sellers",
+    "mega5_col2_image": "shopify:\/\/shop_images\/img1.jpg",
+    "mega5_col2_link": "shopify:\/\/collections\/all",
+    "nav_linklist_title": "Menu",
+    "mega2_bg": "shopify:\/\/shop_images\/3_2695433f-f635-4d01-8e74-89c9808923c9.jpg",
+    "mega3_col1_image": "shopify:\/\/shop_images\/mg21.jpg",
+    "mega3_col1_img_hover": "shopify:\/\/shop_images\/mega-text.png",
+    "mega3_col2_image": "shopify:\/\/shop_images\/mg22.jpg",
+    "mega3_col2_img_hover": "shopify:\/\/shop_images\/mega-text_ad5d404f-efb4-4cd4-a465-efb5eae47415.png",
+    "mega3_col3_image": "shopify:\/\/shop_images\/mg23.jpg",
+    "mega3_col3_img_hover": "shopify:\/\/shop_images\/mega-text_b7c145cc-9ecf-4f61-8675-12373a18cfcc.png",
+    "mega3_col4_image": "shopify:\/\/shop_images\/mg24.jpg",
+    "mega3_col4_img_hover": "shopify:\/\/shop_images\/mega-text_cd8e40d9-3822-4c95-89af-9e6e54b68ae3.png",
+    "mega3_col5_image": "shopify:\/\/shop_images\/mg25.jpg",
+    "mega3_col5_img_hover": "shopify:\/\/shop_images\/mega-text_b978cfb7-1034-467d-b4e4-0606d6b3f077.png",
+    "mega4_col1_image": "shopify:\/\/shop_images\/mg31.jpg",
+    "mega4_col1_img_hover": "shopify:\/\/shop_images\/mega-text_651beeee-cb3e-4cd5-8e84-b2b6a311e2d0.png",
+    "mega4_col2_image": "shopify:\/\/shop_images\/mg32.jpg",
+    "mega4_col2_img_hover": "shopify:\/\/shop_images\/mega-text_dc9ec7ee-5a32-4259-869c-1cc95d2d8863.png",
+    "mega4_col3_image": "shopify:\/\/shop_images\/mg33.jpg",
+    "mega4_col3_img_hover": "shopify:\/\/shop_images\/mega-text_0d1a52b0-a5ca-44aa-8282-840aeecefaf3.png",
+    "mega4_col3_linklist": "trousers",
+    "mega4_col4_image": "shopify:\/\/shop_images\/mg34.jpg",
+    "mega4_col4_img_hover": "shopify:\/\/shop_images\/mega-text_79297ad2-d401-402c-bfd2-f99409064e42.png",
+    "mega4_col4_linklist": "sportswear",
+    "mega4_col5_image": "shopify:\/\/shop_images\/mg35.jpg",
+    "mega4_col5_img_hover": "shopify:\/\/shop_images\/mega-text_249b1427-7984-494d-aa19-c239ec2a6529.png",
+    "mega4_col5_linklist": "accessories-1",
+    "mega5_col1_image": "shopify:\/\/shop_images\/mg4.jpg",
+    "mega5_col1_link": "trending",
+    "mega5_col2_title": "PRODUCTS FEATURED",
+    "mega5_col2_collection": "products-featured",
+    "mega6_col1_link": "best-sellers",
+    "mega6_col2_title": "Best Products",
+    "mega6_col2_collection": "best-sellers",
+    "mega6_bg": "shopify:\/\/shop_images\/2_0b4e8132-5a03-485e-9ca9-526a9c1f2013.jpg",
+    "mega7_title": "Accessories",
+    "mega7_col1_link": "accessories",
+    "mega7_col2_title": "New Products",
+    "mega7_col2_collection": "new-products",
+    "mega7_bg": "shopify:\/\/shop_images\/1_ee752bb9-cca4-499d-91a9-9f44e8684fac.jpg",
+    "color_textfield_text": "#222222",
+    "color_textfield_border": "#222222",
+    "color_textfield_bg": "#ffffff",
+    "color_navdropdown_text": "#222222",
+    "color_navdropdown_text_hover": "#8ed7ee",
+    "color_navdropdown_title": "#222222",
+    "color_navdropdown_bg": "#222222",
+    "color_image_overlay_text": "#fff",
+    "color_image_overlay_bg": "#000000",
+    "color_topcart_bg": "#ffffff",
+    "color_topcart_text": "#000000",
+    "font_4": "Google+Kaushan+Script",
+    "share_fancy": true,
+    "color_main": "#8ed7ee",
+    "color_text": "#343434",
+    "color_link": "#363636",
+    "color_link_hover": "#8ed7ee",
+    "color_heading_text": "#000000",
+    "color_heading_text2": "#505050",
+    "color_heading_text3": "#000000",
+    "color_border": "#e8e8e8",
+    "bg_filter": "#ebebeb",
+    "color_newlabel_text": "#ffffff",
+    "color_newlabel_border": "#52d0f7",
+    "color_newlabel_bg": "#52d0f7",
+    "color_bestlabel_text": "#ffffff",
+    "color_bestlabel_border": "#fea348",
+    "color_bestlabel_bg": "#fea348",
+    "color_trendlabel_text": "#ffffff",
+    "color_trendlabel_border": "#8ec63f",
+    "color_trendlabel_bg": "#8ec63f",
+    "color_deallabel_text": "#ffffff",
+    "color_deallabel_border": "#fb5165",
+    "color_deallabel_bg": "#fb5165",
+    "color_btnslider_text": "#222222",
+    "color_btnslider_border": "#ffffff",
+    "color_btnslider_bg": "#ffffff",
+    "color_nextprev_text": "#b0b0b0",
+    "color_nextprev_border": "#ededed",
+    "color_nextprev_bg": "#ffffff",
+    "color_quickview_text": "#ffffff",
+    "color_quickview_border": "#ffffff",
+    "color_quickview_bg": "rgba(0,0,0,0)",
+    "color_quickview_text_hover": "#8ed7ee",
+    "color_quickview_border_hover": "#8ed7ee",
+    "color_quickview_bg_hover": "rgba(0,0,0,0)",
+    "color_button_text_hover": "#222222",
+    "color_button_border_hover": "#222222",
+    "color_button_bg_hover": "#ffffff",
+    "color_btn_text_hover1": "#ffffff",
+    "color_btn_border_hover1": "#8ed7ee",
+    "color_btn_bg_hover1": "#8ed7ee",
+    "color_btn_text_hover2": "#ffffff",
+    "color_btn_border_hover2": "#8ed7ee",
+    "color_btn_bg_hover2": "#8ed7ee",
+    "color_button_product_text": "#ffffff",
+    "color_button_product_border": "#ffffff",
+    "color_button_product_bg": "rgba(0,0,0,0)",
+    "color_button_product_text_hover": "#8ed7ee",
+    "color_button_product_border_hover": "#8ed7ee",
+    "color_button_product_bg_hover": "rgba(0,0,0,0)",
+    "color_button_newletter_text": "#ffffff",
+    "color_button_newletter_border": "#000000",
+    "color_button_newletter_bg": "#000000",
+    "color_button_newletter_text_hover": "#f2f2f2",
+    "color_button_newletter_border_hover": "#706f6f",
+    "color_button_newletter_bg_hover": "#706f6f",
+    "color_btn_detail_text": "#fff",
+    "color_btn_detail_border": "#8ed7ee",
+    "color_btn_detail_bg": "#8ed7ee",
+    "color_btn_detail_text_hover": "#8ed7ee",
+    "color_btn_detail_border_hover": "#8ed7ee",
+    "color_btn_detail_bg_hover": "#fff",
+    "color_btnslider_text_hover": "#ffffff",
+    "color_btnslider_border_hover": "#222222",
+    "color_btnslider_bg_hover": "#000000",
+    "color_nextprev_text_hover": "#b0b0b0",
+    "color_nextprev_border_hover": "#b0b0b0",
+    "color_nextprev_bg_hover": "#ffffff",
+    "color_borders": "#e8e8e8",
+    "base_font": "Google+Lato",
+    "heading_font": "Google+Lato",
+    "heading_font2": "Lora",
+    "misc_font": "Google+Pacifico",
+    "misc_font2": "Rozha+One",
+    "font_404": "Google+Kaushan+Script",
+    "color_sale_text": "#ffffff",
+    "color_sale_border": "#8ed7ee",
+    "color_sale_bg": "#8ed7ee",
+    "color_body_text": "#788188",
+    "mega3_col1_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">40% OFF<\/span>",
+    "mega3_col2_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">50% OFF<\/span>",
+    "mega3_col3_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">60% OFF<\/span>",
+    "mega3_col4_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">70% OFF<\/span>",
+    "mega3_col5_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">80% OFF<\/span>",
+    "mega4_col1_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">10% OFF<\/span>",
+    "mega4_col2_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">20% OFF<\/span>",
+    "mega4_col3_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">30% OFF<\/span>",
+    "mega4_col4_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">40% OFF<\/span>",
+    "mega4_col5_hover": "<span class=\"sale\">Sale<\/span>\n<span class=\"up-to\">Up to<\/span>\n<span class=\"off\">50% OFF<\/span>",
+    "bg_header_collection": "",
+    "blog_heading_enable": true,
+    "blog_heading_bg": "shopify:\/\/shop_images\/08_Blog.jpg",
+    "blog_heading_caption": "<span class=\"title\">\r\nHow I Transformed My Thinning Eyebrows\r\n<\/span>\r\n<span class=\"content\">\r\nTraits of those borm in a simian year include lively and mischievous, curious and cunning.( I might also add excellent groomers ). These are facts.\r\n<\/span>",
+    "blog_sidebar_banner": "",
+    "blog_sidebar_banner_link": "shopify:\/\/blogs\/news",
+    "product_enable_vendor": true,
+    "product_enable_type": true,
+    "mega2_banner_1": "shopify:\/\/shop_images\/img-megamenu-1.jpg",
+    "mega2_banner_1_link": "",
+    "mega2_banner_2": "shopify:\/\/shop_images\/img-megamenu-2.jpg",
+    "mega2_banner_2_link": "",
+    "mega4_col4_banner": "shopify:\/\/shop_images\/img-megamenu-3.jpg",
+    "mega4_col4_banner_link": "",
+    "color_small_button_text": "#ffffff",
+    "color_small_button_border": "#222222",
+    "color_small_button_bg": "#222222",
+    "color_small_button_text_hover": "#222222",
+    "color_small_button_border_hover": "#222222",
+    "color_small_button_bg_hover": "#ffffff",
+    "banner_enable": false,
+    "banner_image": "",
+    "banner_caption": "",
+    "use_bg_image_breadcrumb_collection": "shopify:\/\/shop_images\/col_bkgd_2-compressor1.jpg",
+    "bg_header_page": "",
+    "main_image_display": "default",
+    "collection_show_page": true,
+    "collection_sidebar": true,
+    "left_menu_title": "Shop By Category",
+    "left_menu_linklist": "",
+    "left_menu_icon": true,
+    "sidemenu_items_1": "Hot Deals",
+    "sidemenu_items_1_background": "",
+    "sidemenu_1_linklist_title": "There is an example of a large container with 6 colums",
+    "sidemenu_1_linklist_1": "",
+    "sidemenu_1_linklist_2": "",
+    "sidemenu_1_linklist_3": "",
+    "sidemenu_1_linklist_4": "",
+    "sidemenu_1_linklist_5": "",
+    "sidemenu_1_linklist_6": "",
+    "sidemenu_1_linklist_image": "",
+    "sidemenu_1_linklist_content": "Vivamus nec libero gravida, semper est sed, mollis magna. Integer et iaculis eros.\r\n<br\/>\r\nVivamus sodales nunc mi, a congue velit velit sem, vestibulum tristique.",
+    "sidemenu_items_2": "Mobile Phone & Tablet",
+    "sidemenu_2_linklist_content": "<p class=\"title\">Update new trends<\/p>\r\n<div class=\"content\">\r\n<p>\r\nVivamus nec libero gravida, semper est sed, mollis magna. Integer et iaculis eros. Vivamus sodales nunc mi, a congue velit velit sem, vestibulum tristique.\r\n<\/p>\r\n<p>\r\nAt vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos. \r\n<\/p>\r\n\r\n<\/div>",
+    "sidemenu_2_linklist_1": "",
+    "sidemenu_2_linklist_2": "",
+    "sidemenu_2_linklist_collection": "",
+    "sidemenu_items_2_image": "",
+    "sidemenu_items_2_link": "",
+    "sidemenu_items_3": "Foods",
+    "sidemenu_3_title": "All Fresh !",
+    "sidemenu_3_caption": "New",
+    "sidemenu_3_linklist_1": "",
+    "sidemenu_3_linklist_2": "",
+    "sidemenu_3_linklist_3": "",
+    "sidemenu_3_textlink": "All Categories",
+    "sidemenu_3_link": "",
+    "sidemenu_2_1_image": "",
+    "sidemenu_2_1_link": "",
+    "sidemenu_3_1_image": "",
+    "sidemenu_3_1_link": "",
+    "sidemenu_3_2_image": "",
+    "sidemenu_3_2_link": "",
+    "sidemenu_3_linklist_collection": "",
+    "checkout_use_header_image": false,
+    "checkout_logo": "",
+    "checkout_use_body_background_image": false,
+    "checkout_use_sidebar_background_image": false,
+    "price_sale": "#000000",
+    "price_compare": "#848484",
+    "bg_price": "#ffffff",
+    "bg_sale": "#000",
+    "color_textsale": "#fff",
+    "color_btn_next_prev_text": "#ffffff",
+    "color_btn_next_prev_border": "#222222",
+    "color_btn_next_prev_bg": "#222222",
+    "color_btn_next_prev_text_hover": "#222222",
+    "color_btn_next_prev_border_hover": "#222222",
+    "color_btn_next_prev_bg_hover": "#fff",
+    "btn_bg_slider1": "#f6f6f6",
+    "btn_border_slider1": "#f6f6f6",
+    "btn_text_slider1": "#aeaeae",
+    "btn_bg_slider_hover1": "#f6f6f6",
+    "btn_border_slider_hover1": "#f6f6f6",
+    "btn_text_slider_hover1": "#aeaeae",
+    "btn_bg_captionslider1": "#f6f6f6",
+    "btn_text_captionslider1": "#f6f6f6",
+    "btn_border_captionslider1": "#aeaeae",
+    "btn_bg_captionslider_hover1": "#f6f6f6",
+    "btn_text_captionslider_hover1": "#f6f6f6",
+    "btn_border_captionslider_hover1": "#aeaeae",
+    "btn_bg_slider2": "#f6f6f6",
+    "btn_border_slider2": "#f6f6f6",
+    "btn_text_slider2": "#aeaeae",
+    "btn_bg_slider_hover2": "#f6f6f6",
+    "btn_border_slider_hover2": "#f6f6f6",
+    "btn_text_slider_hover2": "#aeaeae",
+    "btn_bg_captionslider2": "#f6f6f6",
+    "btn_text_captionslider2": "#f6f6f6",
+    "btn_border_captionslider2": "#aeaeae",
+    "btn_bg_captionslider_hover2": "#f6f6f6",
+    "btn_text_captionslider_hover2": "#f6f6f6",
+    "btn_border_captionslider_hover2": "#aeaeae",
+    "btn_bg_slider3": "#f6f6f6",
+    "btn_border_slider3": "#f6f6f6",
+    "btn_text_slider3": "#aeaeae",
+    "btn_bg_slider_hover3": "#f6f6f6",
+    "btn_border_slider_hover3": "#f6f6f6",
+    "btn_text_slider_hover3": "#aeaeae",
+    "btn_bg_captionslider3": "#f6f6f6",
+    "btn_text_captionslider3": "#f6f6f6",
+    "btn_border_captionslider3": "#aeaeae",
+    "btn_bg_captionslider_hover3": "#f6f6f6",
+    "btn_text_captionslider_hover3": "#f6f6f6",
+    "btn_border_captionslider_hover3": "#aeaeae",
+    "bg_footer1": "#323232",
+    "color_footer_title1": "#ffffff",
+    "color_footer1": "#ffffff",
+    "color_footer_hover1": "#8a8a8a",
+    "border_footer1": "#ffffff",
+    "color_social1": "#848484",
+    "color_social_hover1": "#222",
+    "color_newletter_title1": "#fff",
+    "color_newletter_desc1": "#cccccc",
+    "color_newletter_input1": "#cdcdcd",
+    "color_newletter_subcribe1": "#fff",
+    "border_newletter1": "#fff",
+    "color_copyright1": "#646464",
+    "color_copyright_hover1": "#646464",
+    "bg_copyright1": "#222222",
+    "bg_footer2": "#323232",
+    "color_footer_title2": "#ffffff",
+    "color_footer2": "#ffffff",
+    "color_footer_hover2": "#8a8a8a",
+    "border_footer2": "#ffffff",
+    "color_social2": "#848484",
+    "color_social_hover2": "#222",
+    "color_newletter_title2": "#fff",
+    "color_newletter_desc2": "#cccccc",
+    "color_newletter_input2": "#cdcdcd",
+    "color_newletter_subcribe2": "#fff",
+    "border_newletter2": "#fff",
+    "color_copyright2": "#646464",
+    "bg_copyright2": "#222222",
+    "bg_footer3": "#323232",
+    "color_footer_title3": "#ffffff",
+    "color_footer3": "#ffffff",
+    "color_footer_hover3": "#8a8a8a",
+    "border_footer3": "#ffffff",
+    "color_social3": "#848484",
+    "color_social_hover3": "#222",
+    "color_newletter_title3": "#fff",
+    "color_newletter_desc3": "#cccccc",
+    "color_newletter_input3": "#cdcdcd",
+    "color_newletter_subcribe3": "#fff",
+    "border_newletter3": "#fff",
+    "color_copyright3": "#646464",
+    "bg_copyright3": "#222222",
+    "bg_footer4": "#323232",
+    "color_footer_title4": "#ffffff",
+    "color_footer4": "#ffffff",
+    "color_footer_hover4": "#8a8a8a",
+    "border_footer4": "#ffffff",
+    "color_social4": "#848484",
+    "color_social_hover4": "#222",
+    "color_newletter_title4": "#fff",
+    "color_newletter_desc4": "#cccccc",
+    "color_newletter_input4": "#cdcdcd",
+    "color_newletter_subcribe4": "#fff",
+    "border_newletter4": "#fff",
+    "color_copyright4": "#646464",
+    "bg_copyright4": "#222222",
+    "text_cat": "#fff",
+    "bg_cat1": "#fff",
+    "bg_cat2": "#fff",
+    "bg_cat3": "#fff",
+    "bg_cat4": "#fff",
+    "bg_cat5": "#fff",
+    "bg_cat6": "#fff",
+    "bg_cat7": "#fff",
+    "bg_cat8": "#fff",
+    "color_nav_text": "#ffffff",
+    "color_nav_border": "#222222",
+    "color_nav_bg": "#f47d17",
+    "bg_nav": "#5a5a5a",
+    "color_text_nav": "#5a5a5a",
+    "color_text_nav_hover": "#000",
+    "color_text_headingsubnav": "#fff",
+    "color_text_subnav": "#5a5a5a",
+    "color_text_subnav_hover": "#fff",
+    "bg_subnav": "#222",
+    "color_mega": "#bababa",
+    "color_mega_title": "#fff",
+    "color_text_nav1": "#5a5a5a",
+    "color_text_nav_hover1": "#000",
+    "color_text_headingsubnav1": "#fff",
+    "color_text_subnav1": "#5a5a5a",
+    "color_text_subnav_hover1": "#fff",
+    "bg_subnav1": "#222",
+    "color_mega1": "#bababa",
+    "color_mega_title1": "#fff",
+    "color_text_nav2": "#5a5a5a",
+    "color_text_nav_hover2": "#000",
+    "color_text_headingsubnav2": "#fff",
+    "color_text_subnav2": "#5a5a5a",
+    "color_text_subnav_hover2": "#fff",
+    "bg_subnav2": "#222",
+    "color_mega2": "#bababa",
+    "color_mega_title2": "#fff",
+    "btn_color": "#222",
+    "border_btn_color": "#222",
+    "bg_btn_color": "#ffffff",
+    "btn_color_hover": "#fff",
+    "border_btn_color_hover": "#222",
+    "bg_btn_color_hover": "#222",
+    "btn_color2": "#222",
+    "border_btn_color2": "#222",
+    "bg_btn_color2": "#ffffff",
+    "btn_color_hover2": "#fff",
+    "border_btn_color_hover2": "#222",
+    "bg_btn_color_hover2": "#222",
+    "color_btn_detail": "#848484",
+    "border_color_btn_detail": "#6ad0de",
+    "bg_color_btn_detail": "#6ad0de",
+    "color_btn_detail_hover": "#fff",
+    "border_color_btn_detail_hover": "#000",
+    "bg_color_btn_detail_hover": "#000",
+    "btn_bg_next_prev": "#f6f6f6",
+    "btn_border_next_prev": "#f6f6f6",
+    "btn_text_next_prev": "#aeaeae",
+    "btn_bg_next_prev_hover": "#000",
+    "btn_border_next_prev_hover": "#000",
+    "btn_text_next_prev_hover": "#fff",
+    "btn_bg_banner": "#f6f6f6",
+    "btn_text_banner": "#f6f6f6",
+    "btn_border_banner": "#aeaeae",
+    "btn_bg_banner_hover": "#f6f6f6",
+    "btn_text_banner_hover": "#f6f6f6",
+    "btn_border_banner_hover": "#aeaeae",
+    "btn_bg_addtocart": "#000",
+    "btn_border_addtocart": "#000",
+    "btn_text_addtocart": "#fff",
+    "btn_bg_addtocart_hover": "#fff",
+    "btn_border_addtocart_hover": "#aeaeae",
+    "btn_text_addtocart_hover": "#aeaeae",
+    "bg_dropdowncart": "#fff",
+    "text_dropdowncart": "#222222",
+    "border_dropdowncart": "#222222",
+    "bg_dropdowncart_hover": "#222222",
+    "text_dropdowncart_hover": "#fff",
+    "border_dropdowncart_hover": "#fff",
+    "color_btn_pro": "#848484",
+    "border_color_btn_pro": "#6ad0de",
+    "bg_color_btn_pro": "#6ad0de",
+    "color_btn_pro_hover": "#fff",
+    "border_color_btn_pro_hover": "#000",
+    "bg_color_btn_pro_hover": "#000",
+    "text_quickview": "#222222",
+    "bg_quickview": "#fff",
+    "border_quickview": "#222222",
+    "text_quickview_hover": "#222222",
+    "bg_quickview_hover": "#fff",
+    "border_quickview_hover": "#222222",
+    "article_related_show": true,
+    "article_related_title": "",
+    "header_font": "Google+Open+Sans",
+    "bg_header": "#222222",
+    "color_header": "#222222",
+    "border_header": "#4cab59",
+    "bg_topheader": "#f8f8f8",
+    "color_topheader": "#ffffff",
+    "bg_cart": "#222222",
+    "text_cart": "#222222",
+    "bg_close": "#a9a9a9",
+    "color_textclose": "#fff",
+    "bg_header1": "#222222",
+    "color_header1": "#222222",
+    "border_header1": "#4cab59",
+    "bg_topheader1": "#f8f8f8",
+    "color_topheader1": "#ffffff",
+    "bg_cart1": "#222222",
+    "text_cart1": "#222222",
+    "bg_close1": "#a9a9a9",
+    "color_textclose1": "#000",
+    "bg_header2": "#222222",
+    "color_header2": "#222222",
+    "border_header2": "#4cab59",
+    "bg_topheader2": "#f8f8f8",
+    "color_topheader2": "#ffffff",
+    "bg_cart2": "#222222",
+    "text_cart2": "#222222",
+    "bg_close2": "#a9a9a9",
+    "color_textclose2": "#000",
+    "color_text_heading": "#222222",
+    "color_text_general": "#848484",
+    "border_input": "#ececec",
+    "border_table": "#cccccc",
+    "title_line_color": "#cccccc",
+    "bg_content": "#fff",
+    "bg_contentsub": "#f5f5f5",
+    "shop_bg_color": "#ffffff",
+    "link_color": "#343434",
+    "link_color_hover": "#7f44a2",
+    "bg_topcart": "#e4e4e4",
+    "color_topcart": "#000",
+    "color_price_cart": "#000",
+    "color_cart": "#000",
+    "bg_pagination": "#fff",
+    "bg_pagination_hover": "#000",
+    "border_pagination": "#000",
+    "border_pagination_hover": "#fff",
+    "text_pagination": "#fff",
+    "text_pagination_hover": "#fff",
+    "sidemenu_items_1_show": true,
+    "mega1_bg_show": true,
+    "mega3_bg_show": true,
+    "main_color": "#6bd0de",
+    "border_general": "#f2f3f7",
+    "color_button": "#7796A8",
+    "color_small_button": "#fff",
+    "color_text_field": "#fff",
+    "color_text_field_text": "#000",
+    "color_image_overlay": "#3d4246",
+    "image_overlay_opacity": "0.25",
+    "type_header_family": "Google_Work+Sans_600_sans",
+    "type_header_base_size": "26px",
+    "type_base_family": "Google_Work+Sans_400_sans",
+    "type_base_size": "16px",
+    "type_bold_product_titles": false,
+    "vendor_enable": true,
+    "blog_show_author": false,
+    "blog_show_date": true,
+    "social_snapchat_link": "",
+    "sections": {
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_recent_show": false,
+          "blog_recent_title": "You May Also Like",
+          "blog_recent_blog": "smoothie",
+          "blog_recent_number": "4"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {}
+      },
+      "faq-template": {
+        "type": "faq-template",
+        "blocks": {
+          "1504669835363": {
+            "type": "question",
+            "settings": {
+              "title": "Prequently asked questions",
+              "content": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+            }
+          },
+          "1504669844915": {
+            "type": "question",
+            "settings": {
+              "title": "Nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit?",
+              "content": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+            }
+          },
+          "1504669847142": {
+            "type": "question",
+            "settings": {
+              "title": "Lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit?",
+              "content": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+            }
+          },
+          "1504669849050": {
+            "type": "question",
+            "settings": {
+              "title": "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit?",
+              "content": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+            }
+          },
+          "1504669852036": {
+            "type": "question",
+            "settings": {
+              "title": "Morbi accumsan ipsum ?",
+              "content": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+            }
+          },
+          "1504669853932": {
+            "type": "question",
+            "settings": {
+              "title": "Duis sed odio sit amet nibh vulputate cursus a sit amet mauris?",
+              "content": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+            }
+          },
+          "1504669855913": {
+            "type": "question",
+            "settings": {
+              "title": "Class aptent taciti sociosqu ad litora torquent per conubia nostra. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod?",
+              "content": "Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation."
+            }
+          }
+        },
+        "block_order": [
+          "1504669835363",
+          "1504669844915",
+          "1504669847142",
+          "1504669849050",
+          "1504669852036",
+          "1504669853932",
+          "1504669855913"
+        ],
+        "settings": {
+          "title": "Prequently asked questions",
+          "active_contact": true,
+          "title_contact": "Still have questions? Contact us leave a comment"
+        }
+      },
+      "password-template": {
+        "type": "password-template",
+        "settings": {}
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "enable_rating_star": true,
+          "enable_inventory_management": true,
+          "enable_quickoverview": true,
+          "color_swatch": true,
+          "display_quantity_dropdown": true,
+          "display_wishlist": true,
+          "product_enable_sku": false,
+          "product_enable_col": true,
+          "product_enable_tags": false,
+          "display_tab": true,
+          "product_tab_desc": true,
+          "product_tab_desc_title": "Description",
+          "product_tab_additional": true,
+          "product_tab_additional_title": "Additional Info",
+          "product_tab_additional_desc": "For any special requests, please email info@sloemotion.com or call 01653 618288",
+          "product_tab_review": true,
+          "product_tab_review_title": "Reviews",
+          "show_related_products": true,
+          "product_related_title": "Recently",
+          "product_related_sub_title": "Viewed Products"
+        }
+      },
+      "theme-header": {
+        "type": "theme-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/sloemotion-distillery-log.jpg",
+          "social_enable": true,
+          "social_title": "",
+          "social_caption": "",
+          "social_twitter_link": "https:\/\/twitter.com\/shopify",
+          "social_facebook_link": "https:\/\/www.facebook.com\/shopify",
+          "social_pinterest_link": "https:\/\/www.pinterest.com\/shopify",
+          "social_google_plus_link": "https:\/\/plus.google.com\/+shopify",
+          "social_instagram_link": "https:\/\/instagram.com\/shopify",
+          "social_tumblr_link": "",
+          "social_youtube_link": "",
+          "social_wordpress_link": "",
+          "social_vimeo_link": ""
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {}
+      },
+      "deals-template": {
+        "type": "deals-template",
+        "settings": {}
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "allow_add_note": true,
+          "show_shipping_calculator": false,
+          "shipping_calculator_heading": "Get shipping estimates",
+          "shipping_calculator_default_country": "United Kingdom",
+          "shipping_calculator_submit_button_label": "Calculate shipping",
+          "shipping_calculator_submit_button_label_disabled": "Calculating..."
+        }
+      },
+      "theme-footer": {
+        "type": "theme-footer",
+        "settings": {
+          "newsletter_enable": true,
+          "newsletter_title": "Sign up to our newsletter",
+          "newsletter_caption": "Sign up to receive 20% off",
+          "newsletter_action": "https:\/\/sloemotiondistillery.us4.list-manage.com\/subscribe\/post?u=c6fe97a22e424fda67cf3c707&amp;id=75b095ea36",
+          "newsletter_placeholder": "Enter your email address",
+          "newsletter_actiontext": "Subscribe",
+          "newsletter_background1": "shopify:\/\/shop_images\/leftnewsletter.png",
+          "newsletter_background2": "shopify:\/\/shop_images\/rightnewsletter.png",
+          "contact_enable": true,
+          "contact_title": "Contact Us",
+          "contact_caption": "<p class=\"info\">Sloemotion Distillery Ltd, \nGreen Farm, Barton-le-Willows, \nYork, Y060 7PD.\n<\/p>\n<ul>\n<li class=\"call\"><a href=\"tel:0165320618288\"> 01653 618288<\/a><\/li>\n<li class=\"email\"><a href=\"mailto:info@sloemotion.com\">info@sloemotion.com<\/a><\/li>\n<\/ul>",
+          "follow_enable": true,
+          "follow_title": "Follow Us",
+          "social_twitter_link": "https:\/\/twitter.com\/sloemotionuk",
+          "social_facebook_link": "https:\/\/www.facebook.com\/sloemotion",
+          "social_pinterest_link": "",
+          "social_google_plus_link": "",
+          "social_instagram_link": "https:\/\/www.instagram.com\/sloemotionuk\/",
+          "social_tumblr_link": "",
+          "social_youtube_link": "",
+          "social_wordpress_link": "",
+          "social_vimeo_link": "",
+          "social_linkedin_link": "https:\/\/www.linkedin.com\/company\/sloemotion-ltd\/",
+          "link_enable": true,
+          "link_title": "Useful Links",
+          "link_link": "footer",
+          "about_enable": false,
+          "about_caption": "Fusce dapibus, tellus ac cursus\ncommodo, tortor mauris \ncondimentum nibh, ut fermentum massa justo sit amet risus. Curabitur blandit tempusporttitor nullam quis."
+        }
+      },
+      "1523936399802": {
+        "type": "index-slideshow",
+        "blocks": {
+          "1523936399802-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-template-hedgerow-gin-sm-v2.jpg",
+              "title": "Who knew the hedgerows could taste so good?",
+              "transition_title": "slideright",
+              "sub_title": "",
+              "transition_sub_title": "slideleft",
+              "caption": "",
+              "transition_caption": "slideleft",
+              "position": "right",
+              "action_text": "Shop Now",
+              "transition_button": "slideright",
+              "link": "shopify:\/\/collections\/all"
+            }
+          },
+          "672a8ebf-7aa4-49ae-8635-97ee1d5e9969": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Joff-by-the-hedge-sm-v2.jpg",
+              "title": "Sustainability and nature are at the heart of our business.",
+              "transition_title": "slidedown",
+              "sub_title": "We came from the hedgerows…",
+              "transition_sub_title": "slidedown",
+              "caption": "",
+              "transition_caption": "slidedown",
+              "position": "left",
+              "action_text": "",
+              "transition_button": "slideright",
+              "link": ""
+            }
+          },
+          "2d645b4e-a24a-475d-a163-34d5a9b82855": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/sloe-gin-banner-sm.jpg",
+              "title": "Life on the hedge",
+              "transition_title": "slidedown",
+              "sub_title": "",
+              "transition_sub_title": "slidedown",
+              "caption": "",
+              "transition_caption": "slidedown",
+              "position": "right",
+              "action_text": "",
+              "transition_button": "slideright",
+              "link": ""
+            }
+          },
+          "9ce77a42-20aa-464d-b564-296aff24bd57": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/banner-green-lane.jpg",
+              "title": "Welcome to Green Farm",
+              "transition_title": "slidedown",
+              "sub_title": "Home of Sloemotion Distillery",
+              "transition_sub_title": "slidedown",
+              "caption": "",
+              "transition_caption": "slidedown",
+              "position": "left",
+              "action_text": "",
+              "transition_button": "slideright",
+              "link": ""
+            }
+          },
+          "83d65ec7-8470-484e-a3c2-4295464feecf": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hedgerow-blackberry-and-apple-banner.sm.jpg",
+              "title": "",
+              "transition_title": "slidedown",
+              "sub_title": "",
+              "transition_sub_title": "slidedown",
+              "caption": "",
+              "transition_caption": "slidedown",
+              "position": "right",
+              "action_text": "",
+              "transition_button": "slideright",
+              "link": ""
+            }
+          },
+          "f0430994-9606-4084-8292-3d64095c6574": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/iStill-banner-v2.jpg",
+              "title": "...& Traditional Steeping",
+              "transition_title": "slidedown",
+              "sub_title": "21st Century Responsible Distilling with iStill…",
+              "transition_sub_title": "slidedown",
+              "caption": "",
+              "transition_caption": "slidedown",
+              "position": "left",
+              "action_text": "",
+              "transition_button": "slideright",
+              "link": ""
+            }
+          },
+          "cf1ca94b-7fb4-461a-9d9f-3a90b68d9c99": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/botanical-vodka-sm.jpg",
+              "title": "",
+              "transition_title": "slidedown",
+              "sub_title": "",
+              "transition_sub_title": "slidedown",
+              "caption": "",
+              "transition_caption": "slidedown",
+              "position": "left",
+              "action_text": "",
+              "transition_button": "slideright",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1523936399802-0",
+          "672a8ebf-7aa4-49ae-8635-97ee1d5e9969",
+          "2d645b4e-a24a-475d-a163-34d5a9b82855",
+          "9ce77a42-20aa-464d-b564-296aff24bd57",
+          "83d65ec7-8470-484e-a3c2-4295464feecf",
+          "f0430994-9606-4084-8292-3d64095c6574",
+          "cf1ca94b-7fb4-461a-9d9f-3a90b68d9c99"
+        ],
+        "settings": {
+          "maincarousel_auto": true,
+          "maincarousel_slide": "slide",
+          "maincarousel_slideshowSpeed": "5000",
+          "maincarousel_directionNav": true,
+          "maincarousel_controlNav": true,
+          "maincarousel_pauseOnHover": false
+        }
+      },
+      "1523936555030": {
+        "type": "index-about",
+        "blocks": {
+          "cf648bba-0fc7-4679-b487-3c3103b769f5": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Crab_Apple_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "61aa1191-2908-45b8-b28b-529e898b3f29": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Elderflower_Vector_2db08960-9f20-44c8-a532-b22ac799c74f.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "674e6bba-f2ff-4bda-b31a-cd17daf915d1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Wildflower_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "f08fa208-082a-4c71-b06d-e1be9040adae": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Nettle_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "93f06b98-e79a-45a7-b455-c2ccebee366d": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Sloe_Stones_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "14b3dffc-7f5e-40b0-9899-86982a289613": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Rosehip_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          }
+        },
+        "block_order": [
+          "cf648bba-0fc7-4679-b487-3c3103b769f5",
+          "61aa1191-2908-45b8-b28b-529e898b3f29",
+          "674e6bba-f2ff-4bda-b31a-cd17daf915d1",
+          "f08fa208-082a-4c71-b06d-e1be9040adae",
+          "93f06b98-e79a-45a7-b455-c2ccebee366d",
+          "14b3dffc-7f5e-40b0-9899-86982a289613"
+        ],
+        "settings": {
+          "title": "Sloemotion Distillery",
+          "sub_title": "About Us",
+          "caption": "<p>Founded in 2002, Sloemotion Distillery is an artisan spirits business based at Green Farm, in the village of Barton-le-Willows, just north of York and near to the market town of Malton, Yorkshire’s Food Capital. The company began as the result of wildlife conservation work and continues with a strong ethos of minimising impacts on the environment and helping nature.<\/p><p>\n\n<\/p><p>To read more about Who We Are,<b><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/about-us\"> click here<\/a><\/b><\/p>"
+        }
+      },
+      "1523936805616": {
+        "type": "index-process",
+        "blocks": {
+          "1523936818962": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/SG_Royale_Web_Square.jpg",
+              "title": "Sloe Royale",
+              "caption": "Add the Sloe Gin to a Champagne flute, top up with the sparkling wine or Champagne and enjoy.",
+              "color_background": "#4e7680",
+              "backgroud": "shopify:\/\/shop_images\/smallersAsset_1_1_4x_842718be-c597-4644-9211-357347ab49c6.png"
+            }
+          },
+          "1523937012171": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallerHBV_Med_smaller_with_sticker.png",
+              "title": "Hedgerow Botanical Vodka & Tonic",
+              "caption": "Fill coppa glass with ice, add 50ml Hedgerow Botanical Vodka, top with premium original tonic, garnish with a sprig of mint and a slice of lemon.",
+              "color_background": "#007b6b",
+              "backgroud": "shopify:\/\/shop_images\/smallersgin_4x_ca8475ef-3e65-4eaf-ad94-51a518b53226.png"
+            }
+          },
+          "1523936992522": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallerHGBA_Drink.png",
+              "title": "Hedgerow Gin Blackberry & Apple with Tonic",
+              "caption": "Fill coppa glass with ice, add 50ml Hedgerow Gin Blackberry and Apple, top with premium Original tonic, garnish with blackberries & an apple slice.",
+              "color_background": "#4e7680",
+              "backgroud": "shopify:\/\/shop_images\/HS_Joff.png"
+            }
+          },
+          "1523937027743": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/sloe-jelly-shots-recipe.jpg",
+              "title": "Shimmering Sloe Gin Jelly Shots",
+              "caption": "First Soak the gelatine leaves in cold water for five minutes, meanwhile mix the sloe gin and the cranberry juice\/apple juice mixture and lemon juice in a large jug, heat about 100ml of this liquid gently in a pan... to read more, head to our Recipes page.",
+              "color_background": "#007b6b",
+              "backgroud": "shopify:\/\/shop_images\/foximage.png"
+            }
+          }
+        },
+        "block_order": [
+          "1523936818962",
+          "1523937012171",
+          "1523936992522",
+          "1523937027743"
+        ],
+        "settings": {}
+      },
+      "1523937223653": {
+        "type": "index-product-tab",
+        "blocks": {
+          "1523937223653-1": {
+            "type": "tab",
+            "settings": {
+              "title": "Liqueurs",
+              "collection": "sloemotion-gin"
+            }
+          },
+          "1523937223653-2": {
+            "type": "tab",
+            "settings": {
+              "title": "Spirits",
+              "collection": "hedgerow-spirits"
+            }
+          }
+        },
+        "block_order": [
+          "1523937223653-1",
+          "1523937223653-2"
+        ],
+        "settings": {
+          "title": "Our Products",
+          "sub_title": "Shop Now",
+          "caption": "",
+          "per_row": "4",
+          "limit": "4"
+        }
+      },
+      "1523937570794": {
+        "type": "index-testimonials",
+        "disabled": true,
+        "blocks": {
+          "1523938295301": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/The-Independent-Logo.png",
+              "caption": "\"There is a buzz around what Sloemotion are doing\"",
+              "name": "The Independent",
+              "position": "Smoothie Bar"
+            }
+          },
+          "1523938377584": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/49531010-48dad180-f8b1-11e8-8d89-1e61320e1d82.png",
+              "caption": "Aenean lacinia bibendum nulla sed consectetur.",
+              "name": "Paul Walker",
+              "position": "Smoothie Bar"
+            }
+          }
+        },
+        "block_order": [
+          "1523938295301",
+          "1523938377584"
+        ],
+        "settings": {
+          "title": "Testimonials",
+          "sub_title": "What people say about us",
+          "caption": "",
+          "color_background": "#ffffff",
+          "background": "shopify:\/\/shop_images\/bannertestimonial_4x_1b9861de-ff01-4035-9cc7-be8fb7069d9f.png",
+          "brand_enable": false,
+          "brand_1_link": "",
+          "brand_2_link": "",
+          "brand_3_link": "",
+          "brand_4_link": "",
+          "brand_5_link": "",
+          "brand_6_link": ""
+        }
+      },
+      "1524109074747": {
+        "type": "index-blog",
+        "settings": {
+          "title": "",
+          "sub_title": "Read our latest Blogs & News",
+          "caption": "",
+          "select_blog": "news"
+        }
+      },
+      "collection-default-template": {
+        "type": "collection-default-template",
+        "settings": {
+          "collection_counter": true,
+          "collection_filter": true,
+          "collection_grid_list": true,
+          "collection_sort": true,
+          "products_per_row": "4",
+          "pagination_limit": "8"
+        }
+      },
+      "about-template": {
+        "type": "about-template",
+        "settings": {}
+      },
+      "index-about": {
+        "type": "index-about",
+        "blocks": {
+          "1525667089863": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Elderflower_Vector_2db08960-9f20-44c8-a532-b22ac799c74f.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "1525667149070": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Wildflower_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "1525667254368": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Nettle_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "41fd4c18-3957-4988-9af7-2864db1fae82": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Rosehip_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "55659c09-c644-42ed-a472-dcfd5a9a3e6a": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Sloe_Stones_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "481760c4-5c26-4962-b89e-bd464e31e6df": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Crab_Apple_Vector.png",
+              "title": "",
+              "caption": ""
+            }
+          }
+        },
+        "block_order": [
+          "1525667089863",
+          "1525667149070",
+          "1525667254368",
+          "41fd4c18-3957-4988-9af7-2864db1fae82",
+          "55659c09-c644-42ed-a472-dcfd5a9a3e6a",
+          "481760c4-5c26-4962-b89e-bd464e31e6df"
+        ],
+        "settings": {
+          "title": "Our Hedgerow Botanicals",
+          "sub_title": "",
+          "caption": ""
+        }
+      },
+      "index-coreFeatures": {
+        "type": "index-coreFeatures",
+        "blocks": {
+          "1525667403919": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Elderflower_Vector.png",
+              "title": "Great Flavours",
+              "caption": "Foraging for Hedgerow Fruits & Botanicals"
+            }
+          },
+          "1525667439202": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallerSD_Chutney.png",
+              "title": "Variations of Products",
+              "caption": "We don't throw the fruit away after the liqueurs are made"
+            }
+          },
+          "1525667465367": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smalleriStill_Vector.png",
+              "title": "Making Our Gin",
+              "caption": "The iStill"
+            }
+          },
+          "1525667498375": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallerHS_Joff_888cfbac-a2c2-4ca6-b899-1c90e267797c.png",
+              "title": "Friendly Support",
+              "caption": "Call: 01653 618288"
+            }
+          }
+        },
+        "block_order": [
+          "1525667403919",
+          "1525667439202",
+          "1525667465367",
+          "1525667498375"
+        ],
+        "settings": {
+          "title": "Our Ethos",
+          "sub_title": "",
+          "caption": "With Sloemotion founder, Joff Curtoys’ background as a conservationist and ecologist, from the beginning the ethos at Sloemotion has been one of respect for the environment and the wildlife that lives there.\n\nAt our aptly named Green Farm headquarters, based in the tranquil village of Barton-le-Willows, in the rolling countryside of North Yorkshire, to minimise energy use, re-cycle, re-use, re-purpose and conserve is second nature to us; it’s what we do.",
+          "banner": "shopify:\/\/shop_images\/IMG_1345_e32ec6b8-252f-42b0-a8d1-78378e172928.jpg",
+          "color_background": "#f5fcf9"
+        }
+      },
+      "index-process": {
+        "type": "index-process",
+        "blocks": {
+          "1525667577656": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/imsgeban.png",
+              "title": "Sustainability",
+              "caption": "We came from the hedgerows... Sustainability and nature are at the heart of the business",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/smallsSD_Bottle_vectors.png"
+            }
+          },
+          "1525667677804": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smalliStill_Vector.png",
+              "title": "Responsible Distilling",
+              "caption": "21st Century responsible distilling & traditional steeping... Minimising our impact on the planet and respecting time-honoured methods",
+              "color_background": "#cbe3c2",
+              "backgroud": "shopify:\/\/shop_images\/ginSD_Bottle_vectors.png"
+            }
+          },
+          "1525667810160": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallTank_Vector.png",
+              "title": "Re-cycle",
+              "caption": "Re-cycle, re-purpose and re-use is a mantra we follow every day.",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/smallersgin_4x_ca8475ef-3e65-4eaf-ad94-51a518b53226.png"
+            }
+          },
+          "1525667888183": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Bottle_vectors.png",
+              "title": "Hand Made in Small Batches",
+              "caption": "Always creating great tasting, beautiful-looking products",
+              "color_background": "#cbe3c2",
+              "backgroud": "shopify:\/\/shop_images\/foximage.png"
+            }
+          }
+        },
+        "block_order": [
+          "1525667577656",
+          "1525667677804",
+          "1525667810160",
+          "1525667888183"
+        ],
+        "settings": {}
+      },
+      "about-our-team": {
+        "type": "about-our-team",
+        "blocks": {
+          "1525668146105": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Joff-headshot.png",
+              "name": "Joff Curtoys",
+              "position": "Sales and Marketing Director",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "1525669017473": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/julian-curtoys.png",
+              "name": "Julian Curtoys",
+              "position": "Operations Director",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "1525669141468": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Coming_soon_913484f1-bbbb-4d67-902b-b7385c125685.png",
+              "name": "Phil Dibbs",
+              "position": "Managing Director (Interim)",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "https:\/\/www.youtube.com\/user\/shopify",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1525668146105",
+          "1525669017473",
+          "1525669141468"
+        ],
+        "settings": {
+          "title": "Directors",
+          "sub_title": "",
+          "caption": "",
+          "color_background": ""
+        }
+      },
+      "index-deal": {
+        "type": "index-deal",
+        "settings": {
+          "title": "Our Partners",
+          "sub_title": "",
+          "caption": "<p>As the business has grown Sloemotion Distillery is proud to have formed partnerships with significant and well established companies around the UK. <\/p><p>\n\n<\/p><p>We have been supplying product to Waitrose and Booths supermarkets for over 10 years and more recently the Wine Society, Liberty of London, Berry Bros. & Rudd, Corney & Barrow and Co-op.  We have worked with over 400 farm shops, food halls, garden centres & delis.<\/p><p><\/p>",
+          "action_text": "",
+          "link": "shopify:\/\/collections",
+          "banner": "shopify:\/\/shop_images\/partners-of-sloemotion.jpg",
+          "color_background": "#bde0bf",
+          "background": "shopify:\/\/shop_images\/banner-light-green-hedgeriw.jpg"
+        }
+      },
+      "contact-v1-template": {
+        "type": "contact-v1-template",
+        "settings": {
+          "detail_enable": true,
+          "detail_title": "",
+          "detail_sub_title": "Contact Us",
+          "detail_caption": "For your safety and the safety of the Sloemotion Team, visits to Green Farm are by appointment only.\nWe sell nationwide in a great number of farmshops, foodhalls and garden centres; please see our full list of stockists\n<div class=\"group\">\n\t<div class=\"item\">\n\t\t<p class=\"t1\"> <\/p>\n\t\t<div class=\"p\">\n<p class=\"t1\">Address<\/p>\n\t\t<p>\n\t\t\tSloemotion Distillery,\n\t\t<\/p>\t\t\n\t\t<p>\n\t\t\tGreen Farm,\n\t\t<\/p>\n\t\t<p>\n\t\t\tBarton-le-Willows,\n\t\t<\/p>\n\t\t<p>\n\t\t\tYork,\n\t\t<\/p>\n\t\t<p>\n\t\t\tYO60 7PD\n\t\t<\/p>\t\t\t\n\t\t<\/div>\n<\/div>\n<\/div>",
+          "form_enable": true,
+          "form_title": "Contact Form",
+          "form_sub_title": "Get In Touch",
+          "form_caption": "For any enquiries and Customer Support please email: info@sloemotion.com\n\nPHONE: 01653 618288",
+          "contact_enable": true,
+          "contact_type": "ROADMAP",
+          "contact_zoom": "17",
+          "contact_address": "Sloemotion Distillery, Green Farm, Barton-le-Willows, York, YO60 7PD",
+          "contact_scroll": true
+        }
+      },
+      "contact-v2-template": {
+        "type": "contact-v2-template",
+        "blocks": {
+          "1525751382387": {
+            "type": "item",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/d1.png",
+              "title": "address",
+              "caption": "25 Pandan Crescent #02-10 TIC\nTech Centre Singapore"
+            }
+          },
+          "1525751792339": {
+            "type": "item",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/d2.png",
+              "title": "hotline",
+              "caption": "(1200) 989 91 94 - (1100) 891 743"
+            }
+          },
+          "1525751800227": {
+            "type": "item",
+            "settings": {
+              "icon": "shopify:\/\/shop_images\/d3.png",
+              "title": "email",
+              "caption": "<p>creativewithjoy@gmail.com<\/p>\n<p>supportoars@gmail.com<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1525751382387",
+          "1525751792339",
+          "1525751800227"
+        ],
+        "settings": {
+          "form_enable": true,
+          "form_banner": "shopify:\/\/shop_images\/Contact_Us.jpg",
+          "form_title": "Contact Form",
+          "form_sub_title": "Get In Touch",
+          "form_caption": "Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.",
+          "detail_enable": true,
+          "contact_enable": true,
+          "contact_type": "ROADMAP",
+          "contact_zoom": "17",
+          "contact_address": "474 Ontario St Toronto, ON M4X 1M7 Canada",
+          "contact_scroll": true
+        }
+      },
+      "contact-v3-template": {
+        "type": "contact-v3-template",
+        "blocks": {
+          "1525752018093": {
+            "type": "store",
+            "settings": {
+              "title": "address",
+              "caption": "Sloemotion Distillery, Green Farm, Barton-le-Willows, York, YO60 7PD"
+            }
+          },
+          "1525752066203": {
+            "type": "store",
+            "settings": {
+              "title": "Phone Number",
+              "caption": "<a href=\"tel:01653%20618288\"> 01653 618288<\/a>"
+            }
+          },
+          "1525752100411": {
+            "type": "store",
+            "settings": {
+              "title": "email",
+              "caption": "<a href=\"mailto:info@sloemotion.com\">info@sloemotion.com<\/a>"
+            }
+          }
+        },
+        "block_order": [
+          "1525752018093",
+          "1525752066203",
+          "1525752100411"
+        ],
+        "settings": {
+          "detail_enable": true,
+          "detail_banner": "shopify:\/\/shop_images\/contact-us-image.jpg",
+          "detail_title": "Contact Us",
+          "detail_sub_title": "",
+          "detail_caption": "For your safety and the safety of the Sloemotion Team, visits to Green Farm are by appointment only.",
+          "contact_enable": true,
+          "contact_type": "ROADMAP",
+          "contact_zoom": "17",
+          "contact_address": "Sloemotion Distillery, Green Farm, Barton-le-Willows,York,YO60 7PD",
+          "contact_scroll": true,
+          "form_enable": true,
+          "form_title": "Contact Form",
+          "form_sub_title": "Get In Touch",
+          "form_caption": "For any enquiries and Customer Support please email: <a href=\"mailto:info@sloemotion.com\">info@sloemotion.com<\/a>\n\nPHONE: <a href=\"tel:01653%20618288\"> 01653 618288<\/a>"
+        }
+      },
+      "gallery-template": {
+        "type": "gallery-template",
+        "blocks": {
+          "1525838657294": {
+            "type": "item",
+            "settings": {
+              "position": "left",
+              "big_image": "shopify:\/\/shop_images\/sloemotion.png",
+              "big_caption": "An award winning range of liqueurs, all made in the traditional way, by steeping hand-picked fruit in spirits.",
+              "top1_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>",
+              "top2_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>",
+              "bottom_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>"
+            }
+          },
+          "1525838889197": {
+            "type": "item",
+            "settings": {
+              "position": "right",
+              "big_image": "shopify:\/\/shop_images\/hedgerowspirits.png",
+              "big_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>",
+              "top1_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>",
+              "top2_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>",
+              "bottom_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>"
+            }
+          },
+          "1525839112357": {
+            "type": "item",
+            "settings": {
+              "position": "left",
+              "big_image": "shopify:\/\/shop_images\/finders.png",
+              "big_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>",
+              "top1_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>",
+              "top2_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>",
+              "bottom_caption": "<p class=\"p1\">organized noise<\/p>\n<p class=\"p2\">Organic Farm, Fresh Juice<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1525838657294",
+          "1525838889197",
+          "1525839112357"
+        ],
+        "settings": {
+          "title": "True healthcare reform starts",
+          "sub_title": "in your kitchen!!!"
+        }
+      },
+      "index-values-header": {
+        "type": "index-values-header",
+        "settings": {
+          "title": "Sloemotion Distillery Mission Statement",
+          "sub_title": "",
+          "caption": "We believe in doing things in the right way, using traditional methods combined with modern energy-saving techniques to bring great tasting, craft distilled spirits and liqueurs to the market, with a strong philosophy of respect for the environment which runs through the heart of the business.",
+          "action_text": "",
+          "banner": "shopify:\/\/shop_images\/A0-Process-board-V4.jpg",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/aboutbanner.png"
+        }
+      },
+      "index-distillery-header": {
+        "type": "index-distillery-header",
+        "settings": {
+          "title": "21st Century Responsible Distilling",
+          "sub_title": "",
+          "caption": "<p>The biggest energy usage at any distillery is the still itself. We use the energy-efficient iStill. The iStill’s design, insulation and computer controls means, using up to 10 times less energy than a traditional still, our distillery is always literally (& metaphorically) cool!<\/p><p>\n\n<\/p><p>Our Head Distiller Ian uses his experience and that of his team to review existing recipes and trial new ideas using our second smaller development iStill.<\/p><p>\n\n<\/p><p>To find out more about what else we do to minimise our impact on the environment:<\/p><p><\/p>",
+          "action_text": "CLICK HERE",
+          "link": "shopify:\/\/pages\/environmental-action",
+          "banner": "shopify:\/\/shop_images\/iStill.png",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/banners.png"
+        }
+      },
+      "index-distillery-foraging": {
+        "type": "index-distillery-foraging",
+        "settings": {
+          "title": "Foraging",
+          "sub_title": "",
+          "caption": "We forage at Green Farm and the surrounding countryside through the seasons for hedgerow fruits and botanicals to use in the creation of our products. Once gathered, we dry or freeze them to preserve and concentrate flavours for the distillation or steeping processes.",
+          "action_text": "",
+          "link": "",
+          "banner": "shopify:\/\/shop_images\/steeping2.png",
+          "color_background": "#cbe3c2",
+          "background": "shopify:\/\/shop_images\/backgroundbox.png"
+        }
+      },
+      "index-distillery-steeping": {
+        "type": "index-distillery-steeping",
+        "settings": {
+          "title": "Traditional Steeping",
+          "sub_title": "",
+          "caption": "<p>The business began by scaling up traditional kitchen recipes and techniques to make quality liqueur products. Today, we still follow those award-winning methods. <\/p><p>\n<\/p><p>The core element of our liqueur making is macerating or steeping whole fruit in small batches over a period of months. This lengthy process, along with regular stirring, allows the product flavour to fully develop and mature.<\/p><p><\/p>",
+          "action_text": "",
+          "link": "",
+          "banner": "shopify:\/\/shop_images\/steeping2_no_background.png",
+          "color_background": "#f7f4e2",
+          "background": "shopify:\/\/shop_images\/steeping.png"
+        }
+      },
+      "index-distillery-batch": {
+        "type": "index-distillery-batch",
+        "settings": {
+          "title": "Taste every batch",
+          "sub_title": "",
+          "caption": "At the end of the process, every batch is assessed for taste and colour. Joff is the key person for this but we all have to get involved now and again…. Sometimes it sharpens the mind!",
+          "action_text": "",
+          "link": "",
+          "banner": "shopify:\/\/shop_images\/taste.png",
+          "color_background": "#ffffff",
+          "background": "shopify:\/\/shop_images\/whitebackground.png"
+        }
+      },
+      "index-distillery-waste": {
+        "type": "index-distillery-waste",
+        "settings": {
+          "title": "Second-hand Sloes",
+          "sub_title": "",
+          "caption": "<p>We re-cycle, re-use and re-purpose whatever and wherever we can – we don’t like waste. Our tastiest use of re-purposing comes with our second-hand sloes!\n\n<\/p><p>Our skilful team have developed innovative recipes using the gin-soaked sloes (too good to throw away!) to make our unique and award winning <a href=\"https:\/\/sloemotiondistillery.com\/products\/sloe-gin-truffles\"> Sloe Gin Chocolate Truffles <\/a>and <a href=\"https:\/\/sloemotiondistillery.com\/products\/sloe-chutney\"> Sloe Chutney.<\/a><\/p> <p>\n\n<\/p><p><b>Waste not, want not. <\/b><\/p><p>\n\n<\/p><p>To find out more about how we re-purpose, re-cycle and re-use, click the button below:<\/p>",
+          "action_text": "Click here",
+          "link": "shopify:\/\/pages\/environmental-action",
+          "banner": "shopify:\/\/shop_images\/wedon_tlikewaste.png",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/subscribebanner.png"
+        }
+      },
+      "index-whoarewe": {
+        "type": "index-whoarewe",
+        "settings": {
+          "title": "Who We Are",
+          "sub_title": "",
+          "caption": "<p>Founded in 2002, Sloemotion Distillery is an artisan business creating great tasting spirits and liqueurs. We are based at Green Farm, in the village of Barton-le-Willows, just north of York and near to the market town of Malton, Yorkshire’s food capital. <\/p><p>\n\n<\/p><p>The business began almost by accident, when a farming initiative to improve wildlife habitats resulted in an abundance of sloes. To Joff Curtoys, an ecologist by training, who had grown up drinking his father’s home-made Sloe Gin, an idea began to take shape and Sloemotion was born.<\/p><p><\/p>",
+          "special_statement": "The fields, rich meadows, woodlands and especially the tangled hedgerows in North Yorkshire provided the inspiration for the business and are still at the heart of every decision made.",
+          "action_text": "",
+          "banner": "shopify:\/\/shop_images\/joff-walking-down-the-lane.jpg",
+          "color_background": "#b0dcb9",
+          "background": "shopify:\/\/shop_images\/bannertestimonial_4x_1b9861de-ff01-4035-9cc7-be8fb7069d9f.png"
+        }
+      },
+      "index-slideshow": {
+        "type": "index-slideshow",
+        "blocks": {
+          "6dca8245-16e1-4113-bc52-ff34bf827940": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/medCAG_Castle_Howard_Gin_028.png",
+              "title": "Spirits are high at Castle Howard.",
+              "transition_title": "slidedown",
+              "sub_title": "",
+              "transition_sub_title": "slidedown",
+              "caption": "",
+              "transition_caption": "slidedown",
+              "position": "left",
+              "action_text": "",
+              "transition_button": "slideright",
+              "link": ""
+            }
+          },
+          "6b7a608d-2352-4089-9aca-936e84d72432": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Banner2CAG_Castle_Howard_Gin_034.png",
+              "title": "Introducing our premium gin in partnership with Sloemotion Distillery",
+              "transition_title": "slidedown",
+              "sub_title": "",
+              "transition_sub_title": "slidedown",
+              "caption": "",
+              "transition_caption": "slidedown",
+              "position": "left",
+              "action_text": "Buy Now",
+              "transition_button": "slideright",
+              "link": "https:\/\/www.sloemotiondistillery.com\/products\/castle-howard-gin?ose=false"
+            }
+          }
+        },
+        "block_order": [
+          "6dca8245-16e1-4113-bc52-ff34bf827940",
+          "6b7a608d-2352-4089-9aca-936e84d72432"
+        ],
+        "settings": {
+          "maincarousel_auto": true,
+          "maincarousel_slide": "slide",
+          "maincarousel_slideshowSpeed": "5000",
+          "maincarousel_directionNav": true,
+          "maincarousel_controlNav": false,
+          "maincarousel_pauseOnHover": false
+        }
+      },
+      "index-about-text": {
+        "type": "index-about-text",
+        "settings": {
+          "title": "Our Founder",
+          "sub_title": "",
+          "caption": "<p> With Joff’s background as a trained farmer\/conservationist and then policy advisor on agricultural issues for the RSPB, the ethos and background of Sloemotion is one of respect for the planet. <\/p><p>\n\n<\/p><p> His passion for wildlife conservation and the environment is ever at the heart of each decision made at the distillery. <\/p><p><\/p>",
+          "action_text": "",
+          "banner": "shopify:\/\/shop_images\/400x400joff-by-the-flowers_e533bf42-4cce-46b7-9473-836919715cba.png",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/aboutbanner.png"
+        }
+      },
+      "index-values-ethos": {
+        "type": "index-values-ethos",
+        "settings": {
+          "title": "Our Ethos",
+          "sub_title": "",
+          "caption": "With Sloemotion founder, Joff Curtoys’ background as a conservationist and ecologist, from the beginning the ethos at Sloemotion has been one of respect for the environment and the wildlife that lives there.\n\nAt our aptly named Green Farm headquarters, based in the tranquil village of Barton-le-Willows, in the rolling countryside of North Yorkshire, to minimise energy use, re-cycle, re-use, re-purpose and conserve is second nature to us; it’s what we do.",
+          "action_text": "",
+          "banner": "shopify:\/\/shop_images\/nobackgroundethos.png",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/subscribebanner.png"
+        }
+      },
+      "index-values-process": {
+        "type": "index-values-process",
+        "blocks": {
+          "439e8fd1-d6e7-428b-bfba-d0cb399f657b": {
+            "type": "item",
+            "settings": {
+              "title": "",
+              "caption": "",
+              "color_background": ""
+            }
+          }
+        },
+        "block_order": [
+          "439e8fd1-d6e7-428b-bfba-d0cb399f657b"
+        ],
+        "settings": {}
+      },
+      "index-sales": {
+        "type": "index-sales",
+        "blocks": {
+          "df3e6d5b-31fb-427f-9b83-b2bfa9a1f7f1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/josh.png",
+              "name": "Josh Wilford",
+              "position": "Account Manager",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "73ffccc8-3cde-4ca7-9f01-68c1f11d8b84": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Coming_soon_913484f1-bbbb-4d67-902b-b7385c125685.png",
+              "name": "Kate Dowling",
+              "position": "Sales Development",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "df3e6d5b-31fb-427f-9b83-b2bfa9a1f7f1",
+          "73ffccc8-3cde-4ca7-9f01-68c1f11d8b84"
+        ],
+        "settings": {
+          "title": "Sales",
+          "sub_title": "",
+          "caption": "",
+          "color_background": ""
+        }
+      },
+      "index-marketing": {
+        "type": "index-marketing",
+        "blocks": {
+          "d8f9244d-5627-4b85-8778-a34f0bb5882d": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/elise.png",
+              "name": "Elise McKeown",
+              "position": "Marketing Manager",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "6bf1aa55-0611-46bb-8578-05f1d0f2c6d0": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/claire.png",
+              "name": "Claire Curtoys",
+              "position": "PR & Communications Co-ordinator",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "576790d4-1735-41aa-a762-13435fffe087": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/rachel.png",
+              "name": "Rachel Shoobridge",
+              "position": "Design Coordinator",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "d8f9244d-5627-4b85-8778-a34f0bb5882d",
+          "6bf1aa55-0611-46bb-8578-05f1d0f2c6d0",
+          "576790d4-1735-41aa-a762-13435fffe087"
+        ],
+        "settings": {
+          "title": "Marketing",
+          "sub_title": "",
+          "caption": "",
+          "color_background": ""
+        }
+      },
+      "index-production": {
+        "type": "index-production",
+        "blocks": {
+          "737db131-cbb7-4f0b-bf35-cd20f8bb86b6": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ian.png",
+              "name": "Ian Mansell",
+              "position": "Production Manager",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "dc13257b-46fb-410a-b919-bb0e6f728670": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/be.png",
+              "name": "Ben Bradbury",
+              "position": "NPD\/Production Supervisor",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "b8718a54-7adb-410f-a083-1ce776e89d6b": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/mandy.png",
+              "name": "Mandy Unsworth",
+              "position": "Production Assistant",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "d29f0c67-68ad-46c8-a21d-da829ddb4723": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/paul.png",
+              "name": "Paul Goundry",
+              "position": "Production Assistant",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "efaa674a-3073-4a4a-a07e-eb7c03a469f1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/natalie.png",
+              "name": "Natalie Miller",
+              "position": "Production Assistant",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "737db131-cbb7-4f0b-bf35-cd20f8bb86b6",
+          "dc13257b-46fb-410a-b919-bb0e6f728670",
+          "b8718a54-7adb-410f-a083-1ce776e89d6b",
+          "d29f0c67-68ad-46c8-a21d-da829ddb4723",
+          "efaa674a-3073-4a4a-a07e-eb7c03a469f1"
+        ],
+        "settings": {
+          "title": "Production",
+          "sub_title": "",
+          "caption": "",
+          "color_background": ""
+        }
+      },
+      "index-office": {
+        "type": "index-office",
+        "blocks": {
+          "c5ee2d2f-1c56-4cda-bbea-ad64958e2a3b": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/marie.png",
+              "name": "Marie Bardy",
+              "position": "Finance Manager",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "b0cf1dc4-af4f-4155-bcd9-8a3423c42664": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Adam-headshot.png",
+              "name": "Adam Szczecina",
+              "position": "Technical Manager",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          },
+          "088d6378-2829-4dd7-95d9-a9c6f3ca9431": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Coming_soon_913484f1-bbbb-4d67-902b-b7385c125685.png",
+              "name": "Stephanie Elsey",
+              "position": "Administration Manager",
+              "social_twitter_link": "",
+              "social_facebook_link": "",
+              "social_pinterest_link": "",
+              "social_google_plus_link": "",
+              "social_instagram_link": "",
+              "social_tumblr_link": "",
+              "social_youtube_link": "",
+              "social_wordpress_link": "",
+              "social_vimeo_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "c5ee2d2f-1c56-4cda-bbea-ad64958e2a3b",
+          "b0cf1dc4-af4f-4155-bcd9-8a3423c42664",
+          "088d6378-2829-4dd7-95d9-a9c6f3ca9431"
+        ],
+        "settings": {
+          "title": "Office",
+          "sub_title": "",
+          "caption": "",
+          "color_background": ""
+        }
+      },
+      "index-partners": {
+        "type": "index-partners",
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "caption": "",
+          "color_background": ""
+        }
+      },
+      "index-partnerssection": {
+        "type": "index-partnerssection",
+        "blocks": {
+          "1cd3a0a5-fa37-46cd-b250-1957382574fe": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/liberty.png",
+              "title": "",
+              "caption": "- Liberty of London, who established their very first food hall in 2016. We were delighted to be asked to supply dual branded Sloe Gin & Damson Vodka to them, which continues on today.\n\n- Berry Brothers & Rudd, the oldest wine merchants in the United Kingdom. As well as making a Sloe Gin for them, we supply their St James’ shop with our own spirits.\n\n- Corney & Barrow, we have been making a Sloe Gin for them for the past 8 years.",
+              "color_background": "#4e7681"
+            }
+          },
+          "f261a36b-b09c-4136-b12c-81f736c1aab0": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/partners.png",
+              "title": "",
+              "caption": "As well as our national connections, having established ourselves in Yorkshire, we have formed lasting relationships with businesses in what is a huge area with a strong identity. We’re very proud to promote our Yorkshire roots to a very loyal crowd; it’s one of the founding blocks of the business and still continues today. Examples of collaborations include:\n\n- Castle Howard. We are delighted to be teaming up with our close neighbours , only4 miles away, for a number of exciting events as well as creating a collaborative new gin inspired by the rural countryside surrounding their prestigious 8,000acre estate.\n\n- Yorkshire Wildlife Trust. Sloemotion Distillery was born as result of conservation work so teaming up with Yorkshire Wildlife Trust was a natural fit. We launched our first ever limited edition product in 2019 donating money for every bottle sold for the vital work carried out by the trust.",
+              "color_background": "#007788"
+            }
+          },
+          "a32c859c-149f-4761-a760-677f2d119977": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/partners-1.png",
+              "title": "",
+              "caption": "As well as collaborations we also work closely with partner food manufacturers in the region. These include:\n\n- Bettys of Harrogate, the well known baker and café owner has been using our products in their amazing Sloe Gin Cake for over 10 years and our spirits and liqueurs on their café cocktail menus from time to time.\n\n- Rosebud Preserves, who have a very similar ethos relating to the Yorkshire countryside and are fellow foragers, make a delicious Blackberry and Sloe Gin jam using the gin-soaked sloes taken from our Sloe Gin making process.\n\n- Lottie Shaws, established Yorkshire bakers, make wonderful parkin and cakes also use our Sloe Gin in some of their cakes and our Hedgerow Gin in their Gin-iced mince pies.",
+              "color_background": ""
+            }
+          }
+        },
+        "block_order": [
+          "1cd3a0a5-fa37-46cd-b250-1957382574fe",
+          "f261a36b-b09c-4136-b12c-81f736c1aab0",
+          "a32c859c-149f-4761-a760-677f2d119977"
+        ],
+        "settings": {}
+      },
+      "index-libery": {
+        "type": "index-libery",
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "caption": "<ul>\n  <li>Liberty of London, who established their very first food hall in 2016. We were delighted to be asked to supply dual branded Sloe Gin & Damson Vodka to them, which continues on today.<\/li>\n  <li>Berry Brothers & Rudd, the oldest wine merchants in the United Kingdom. As well as making a Sloe Gin for them, we supply their St James’ shop with our own spirits.<\/li>\n  <li>Corney & Barrow, we have been making a Sloe Gin for them for the past 8 years.<\/li>\n<\/ul>",
+          "action_text": "",
+          "banner": "shopify:\/\/shop_images\/liberty.png",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/whitebackground.png"
+        }
+      },
+      "blog-default-template": {
+        "type": "blog-default-template",
+        "settings": {}
+      },
+      "index-recipes": {
+        "type": "index-recipes",
+        "blocks": {
+          "2944e34b-0c93-4a95-833d-386fc2a4e1d1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/sloe-royal.jpg",
+              "title": "Sloe Royale",
+              "caption": "Ingredients 25ml Sloemotion Sloe Gin, Sparkling wine or Champagne\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/sloe-royale\/\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/smallersAsset_1_1_4x_842718be-c597-4644-9211-357347ab49c6.png"
+            }
+          },
+          "9605ea8c-6370-403b-af94-64a1d8baa944": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/mediumsloe_sours.png",
+              "title": "Sloemotion Sloe Sours",
+              "caption": "Ingredients\n25ml Hedgerow Gin\n50ml Sloemotion Sloe Gin or Cherry Brandy\n1\/2 Lemon Juice\n1\/4 Lime Juice\n1 Egg White (optional)\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/sloemotion-sloe-sours\/\">Read More<\/a><\/p>",
+              "color_background": "#cbe3c2",
+              "backgroud": "shopify:\/\/shop_images\/Bottle_vectors.png"
+            }
+          },
+          "d1885666-f4ea-49ec-89f7-0bdc1253526b": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallsloe435.png",
+              "title": "Mulled Sloe Ruby",
+              "caption": "Ingredients\nSloe Ruby\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/mulled-sloe-ruby\/\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/smallsHS_Joff.png"
+            }
+          },
+          "fe21f684-99c5-470c-b3eb-db2daa0ec8ea": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallsloe-pancakes.png",
+              "title": "Sloe Gin Pancakes",
+              "caption": "Ingredients\nSloe Gin\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/sloe-gin-pancakes\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/butterflies.png"
+            }
+          },
+          "f7681f54-5b31-47c6-9f01-cbabafcde522": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallsloe_gin_roasted_ham.png",
+              "title": "Sloe Gin Roasted Ham",
+              "caption": "Ingredients\n3.5kg ham or gammon joint\n250 ml apple juice\n1 small onion\n1 stick of celery\n1 star anise, a few peppercorns & several cloves\n2 tbsp dark brown soft sugar\n200ml Sloemotion Sloe Gin\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/sloe-gin-roasted-ham\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/bugs.png"
+            }
+          },
+          "2e1aadef-b667-4702-8837-c0650932fb33": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallsloe-gin-jelly-shots.png",
+              "title": "Shimmering Sloe Gin Jelly",
+              "caption": "Ingredients\n8 gelatine leaves\n100ml Sloemotion Sloe Gin\n1 ltr cranberry juice and cloudy apple juice mixed together – amounts to suit your taste\nJuice of 1 lemon\nGold edible glitter\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/shimmering-sloe-gin-jelly-shots\/\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/ginjelly.png"
+            }
+          },
+          "8cd67739-3e94-4f6d-9d7f-b765820ad029": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallsloe424.png",
+              "title": "Blackberry & Apple Pie",
+              "caption": "Ingredients\n50ml Bramble Whisky\nFour fresh blackberries\nOne slice of fresh ginger\nCloudy apple juice\nCinnamon stick (to stir)\nIce\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/blackberry-apple-pie-cocktail\/\">Read More<\/a><\/p>",
+              "color_background": "#cbe3c2",
+              "backgroud": "shopify:\/\/shop_images\/tastez.png"
+            }
+          },
+          "189bb255-3d83-4a75-82c6-dcf08101b05a": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/medsCherry-Orchard-1-681x1024.png",
+              "title": "Cherry Orchard",
+              "caption": "Ingredients\n50ml Sloemotion Cherry Brandy\n3 mint leaves\nDash of elderflower cordial\nCloudy apple juice\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/cherry-orchard\/\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/smallsHS_Hedgehog.png"
+            }
+          },
+          "239efeb1-cc18-4aef-b38a-89499270efa6": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallno7.png",
+              "title": "No.7 and Lemonade",
+              "caption": "Ingredients\n50ml of No.7\n200ml of lemonade\nTwo strawberries\nThree slices of cucumber\nFour quarter-slices of orange\nTwo slices of lemon\nThree-large torn mint leaves\nLots of ice\nMint spring or elderflower blossom\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/no-7-and-lemonde\/\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/tastez.png"
+            }
+          },
+          "17e28838-5764-4ef1-9478-45e4516b9174": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallPanna-Cotta.png",
+              "title": "Panna Cotta with Sloe Gin, Thyme & Blackberry Compote",
+              "caption": "Ingredients\n1 tbsp Sloemotion Sloe Gin\n1 cup blackberries\n1 tbsp lemon juice\n1\/4 tsp fresh thyme\n2 tbsp sugar\n1 1\/2 tsp cornstarch\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/panna-cotta-with-sloe-gin-thyme-blackberry-compote\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/smallerAsset_2_4x_543b0e82-ba3a-4b49-a52c-7b0ef296dd86.png"
+            }
+          },
+          "561de89a-35dd-4910-b5ac-09dea3b53eb0": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallsloe417.png",
+              "title": "Mulled Sloe Gin",
+              "caption": "Ingredients\n50ml Sloe Gin\nCranberry juice\nCinnamon stick\nStar anise\nCandied ginger\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/mulled-sloe-gin\/\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/smallsHS_Joff.png"
+            }
+          },
+          "f7526cc6-5947-4de8-9ba3-287a41e1bdea": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallCupcake-recipe.png",
+              "title": "Hedgerow Gin with Rhubarb & Raspberry Iced Cupcakes",
+              "caption": "<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/hedgerow-gin-with-rhubarb-and-raspberry-iced-cupcakes\/\">Read More<\/a><\/p>",
+              "color_background": "#cbe3c2",
+              "backgroud": "shopify:\/\/shop_images\/bugs.png"
+            }
+          },
+          "c53a259d-451b-49d6-8882-6658efdec3e7": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallMARCHMAIN-MARTINEZ-v8-1024x1024.png",
+              "title": "Marchmain Martinez",
+              "caption": "Ingredients\n60ml Hedgerow Gin\n15ml Martini Rosso\n7.5ml Extra Dry Martini\n5ml Sloemotion Cherry Brandy\nDash of Angostura Bitters\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/marchmain-martinez\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/smallersgin_4x_ca8475ef-3e65-4eaf-ad94-51a518b53226.png"
+            }
+          },
+          "9e8cee26-1cdf-4738-bf63-06026840029b": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallDAMSON-BRAMBLE-smaller-v2.png",
+              "title": "Damson Bramble Cocktail",
+              "caption": "Ingredients\n50ml Damson Gin\nA squeeze of lemon\nDash of soda\nBlackberries to garnish\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/damson-bramble-cocktail\/\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/butterflies.png"
+            }
+          },
+          "20b6488a-7ec2-4131-84b5-8e32ddb37268": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallFUDGE-small-1024x1024.png",
+              "title": "Cherry Brandy Fudge",
+              "caption": "Ingredients\nButter or oil, for greasing the tray\n100g dried cherries\n3-4 tbsp Sloemotion Cherry Brandy\n½ vanilla pod\n450g caster sugar\n50g golden syrup\n170ml evaporated milk\n170ml full-cream milk\n50g unsalted butter\nPinch of salt\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/cherry-brandy-fudge\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/bugs.png"
+            }
+          }
+        },
+        "block_order": [
+          "2944e34b-0c93-4a95-833d-386fc2a4e1d1",
+          "9605ea8c-6370-403b-af94-64a1d8baa944",
+          "d1885666-f4ea-49ec-89f7-0bdc1253526b",
+          "fe21f684-99c5-470c-b3eb-db2daa0ec8ea",
+          "f7681f54-5b31-47c6-9f01-cbabafcde522",
+          "2e1aadef-b667-4702-8837-c0650932fb33",
+          "8cd67739-3e94-4f6d-9d7f-b765820ad029",
+          "189bb255-3d83-4a75-82c6-dcf08101b05a",
+          "239efeb1-cc18-4aef-b38a-89499270efa6",
+          "17e28838-5764-4ef1-9478-45e4516b9174",
+          "561de89a-35dd-4910-b5ac-09dea3b53eb0",
+          "f7526cc6-5947-4de8-9ba3-287a41e1bdea",
+          "c53a259d-451b-49d6-8882-6658efdec3e7",
+          "9e8cee26-1cdf-4738-bf63-06026840029b",
+          "20b6488a-7ec2-4131-84b5-8e32ddb37268"
+        ],
+        "settings": {}
+      },
+      "index-recipes-hedgerow": {
+        "type": "index-recipes-hedgerow",
+        "blocks": {
+          "e2d1b6d4-4b6f-463b-b5ea-6642d4ef5659": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallsloe081_EXTENDED_smaller.png",
+              "title": "Hedgerow Gin & Tonic",
+              "caption": "Ingredients\n50ml Hedgerow Gin\n100ml Premium Original Tonic\nSprig of thyme\nSlice of Apple\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/hedgerow-gin-tonic\/\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/foximage.png"
+            }
+          },
+          "ceea244c-f3f0-4cfd-9f55-4a03f4238b4b": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallSloe566.png",
+              "title": "Hedgerow Gin Rhubarb & Raspberry with Tonic",
+              "caption": "Ingredients\n50ml Hedgerow Gin Rhubarb & Raspberry\n100ml Premium Elderflower Tonic,\nSprig of Mint & Handful of Raspberries\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/hedgerow-gin-rhubarb-raspberry-with-tonic\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/sHS_Butterf.png"
+            }
+          },
+          "f9748974-f104-4d67-ad40-c560e44d80e9": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallHGBA_Drink.png",
+              "title": "Hedgerow Gin Blackberry & Apple with Tonic",
+              "caption": "Ingredients\n50ml Hedgerow Gin Blackberry and Apple\n100ml Premium Original Tonic,\nGarnish with blackberries & an apple slice.\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/hedgerow-gin-blackberry-apple-with-tonic\/\">Read More<\/a><\/p>",
+              "color_background": "#cbe3c2",
+              "backgroud": "shopify:\/\/shop_images\/ginSD_Bottle_vectors.png"
+            }
+          },
+          "79cfae7a-dfe1-4018-951d-a129d2ddd1a3": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallHBV_Med_smaller_with_sticker.png",
+              "title": "Hedgerow Botanical Vodka & Tonic",
+              "caption": "Ingredients\n50ml Hedgerow Botanical Vodka\n100ml Premium Mediterranean Tonic\nSprig of Mint\nSlice of Lemon\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/hedgerow-botanical-vodka-tonic\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/smallersgin_4x_ca8475ef-3e65-4eaf-ad94-51a518b53226.png"
+            }
+          },
+          "cdb304bb-1ad6-414d-bce2-149f2bdc22a1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/ssHugo_crop_sm.png",
+              "title": "Hugo (in the hedge)",
+              "caption": "Method\nFill a copa glass with ice,\nAdd 25ml of Hedgerow Gin,\nA splash of elderflower cordial,\n3-4 torn mint leaves,\nTop with prosecco,\nGarnish with a sprig of mint.\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/hugo-in-the-hedge\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/smallersAsset_1_1_4x_842718be-c597-4644-9211-357347ab49c6.png"
+            }
+          },
+          "ed0af243-60ea-4f62-b67c-7bbe7be1a790": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallsCrown_the_Rhubarb_Web_Long_copy.png",
+              "title": "Crown the Rhubarb",
+              "caption": "Ingredients\n25ml Hedgerow Gin with Rhubarb & Raspberry\n75ml Sparkling Elderflower\n50ml Prosecco\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/crown-the-rhubard\/\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/smallsHS_Joff.png"
+            }
+          },
+          "26998cb7-759b-4a8f-a34a-c713bfd451f9": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/bramble-cocktail.jpg",
+              "title": "Blackberry & Apple Bramble",
+              "caption": "Method\n50ml Hedgerow Gin Blackberry and Apple,\nSplash of Chambord or Cassis or Crème de Mure,\nSplash of lemon juice,\nTop up with cloudy apple juice (we like Yorkshire Wolds Apple Juice).\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/blackberry-apple-bramble\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/sHS_Bee.png"
+            }
+          },
+          "eeead5b0-e6d5-4e21-862f-f05a00219c3e": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallsBT_HBV.png",
+              "title": "Bloody Mary with Hedgerow Botanical Vodka",
+              "caption": "Ingredients\n50ml Hedgerow Botanical Vodka\n200ml Tomato 🍅 Juice\nA couple of shakes of Worcestershire Sauce\nA couple of shakes of Tabasco\nA pinch of black pepper\nA pinch of celery salt\nJuice of half a lemon 🍋\n<p><a href=\"https:\/\/sloemotion.myshopify.com\/pages\/bloody-mary-with-hedgerow-botanical-vodka\/\">Read More<\/a><\/p>",
+              "color_background": "#cbe3c2",
+              "backgroud": "shopify:\/\/shop_images\/smallsHS_Hedgehog.png"
+            }
+          }
+        },
+        "block_order": [
+          "e2d1b6d4-4b6f-463b-b5ea-6642d4ef5659",
+          "ceea244c-f3f0-4cfd-9f55-4a03f4238b4b",
+          "f9748974-f104-4d67-ad40-c560e44d80e9",
+          "79cfae7a-dfe1-4018-951d-a129d2ddd1a3",
+          "cdb304bb-1ad6-414d-bce2-149f2bdc22a1",
+          "ed0af243-60ea-4f62-b67c-7bbe7be1a790",
+          "26998cb7-759b-4a8f-a34a-c713bfd451f9",
+          "eeead5b0-e6d5-4e21-862f-f05a00219c3e"
+        ],
+        "settings": {}
+      },
+      "index-castle-howard": {
+        "type": "index-castle-howard",
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "caption": "As well as our national connections, having established ourselves in Yorkshire, we have formed lasting relationships with businesses in what is a huge area with a strong identity. We’re very proud to promote our Yorkshire roots to a very loyal crowd; it’s one of the founding blocks of the business and still continues today. Examples of collaborations include:\n\n<ul>\n  <li>Castle Howard. We are delighted to be teaming up with our close neighbours , only4 miles away, for a number of exciting events as well as creating a collaborative new gin inspired by the rural countryside surrounding their prestigious 8,000acre estate.<\/li>\n  <li>Yorkshire Wildlife Trust. Sloemotion Distillery was born as result of conservation work so teaming up with Yorkshire Wildlife Trust was a natural fit. We launched our first ever limited edition product in 2019 donating money for every bottle sold for the vital work carried out by the trust.<\/li>\n<\/ul>",
+          "action_text": "",
+          "banner": "shopify:\/\/shop_images\/partners.png",
+          "color_background": "#f7f4e2",
+          "background": "shopify:\/\/shop_images\/steeping.png"
+        }
+      },
+      "index-bettys": {
+        "type": "index-bettys",
+        "settings": {
+          "title": "Yorkshire Roots",
+          "sub_title": "",
+          "caption": "<p>As well as our national connections, having established ourselves in Yorkshire, we have formed lasting relationships with businesses in what is a huge area with a strong identity. <\/p><p>\n\n<\/p><p>We’re very proud to promote our Yorkshire roots to a very loyal crowd; it’s one of the founding blocks of the business and still continues today. <\/p><p><\/p>",
+          "action_text": "",
+          "banner": "shopify:\/\/shop_images\/wildlife-v2.jpg",
+          "color_background": "#bde0bf",
+          "background": "shopify:\/\/shop_images\/banner-light-green-hedgeriw.jpg"
+        }
+      },
+      "index-logos": {
+        "type": "index-logos",
+        "blocks": {
+          "7b35fb09-89bd-44e6-a090-8402f4f1834a": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/220px-The_Wine_Society_logo_July_2019.png",
+              "title": "The Wine Society",
+              "caption": ""
+            }
+          },
+          "baf54651-9bf2-4bdd-820a-f8efe74352c8": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/majestic-wines.jpg",
+              "title": "Majestic Wine",
+              "caption": ""
+            }
+          },
+          "58b3e632-a7d6-4870-ae54-7a4e23d25e60": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/bigwaitrose.png",
+              "title": "Waitrose",
+              "caption": ""
+            }
+          },
+          "bdb36709-51a4-4f21-9b8f-d17eb981980f": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/bigBooths-logo-300.png",
+              "title": "Booths",
+              "caption": ""
+            }
+          }
+        },
+        "block_order": [
+          "7b35fb09-89bd-44e6-a090-8402f4f1834a",
+          "baf54651-9bf2-4bdd-820a-f8efe74352c8",
+          "58b3e632-a7d6-4870-ae54-7a4e23d25e60",
+          "bdb36709-51a4-4f21-9b8f-d17eb981980f"
+        ],
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "caption": ""
+        }
+      },
+      "index-environmental-action": {
+        "type": "index-environmental-action",
+        "settings": {
+          "title": "",
+          "sub_title": "Minimising our impact on the planet is not a marketing fad for us. It's been at the heart of every decision made since the start of the business nearly 20 years ago. It goes on today and every day.........",
+          "caption": "",
+          "action_text": "",
+          "link": "",
+          "banner": "shopify:\/\/shop_images\/field-cropped.jpg",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/banner-light-green-hedgerow_v2.jpg"
+        }
+      },
+      "index-recycle": {
+        "type": "index-recycle",
+        "settings": {
+          "title": "Low Energy Use",
+          "sub_title": "Our starting point was choosing the most energy efficient still.",
+          "caption": "<p>•  So, we chose an iStill which uses up to 5x less energy than a traditional copper still. This is 21st century, responsible distilling.<\/p><p>\n\n<\/p><p>• Most distilleries are hot with wasted energy “leaking” from the still. The iStill’s design, insulation and computer controls means our distillery is always cool, literally & metaphorically! <\/p><p><\/p>",
+          "action_text": "Our distillery",
+          "link": "shopify:\/\/pages\/the-distillery",
+          "banner": "shopify:\/\/shop_images\/image-3.jpg",
+          "color_background": "#bde0bf",
+          "background": "shopify:\/\/shop_images\/banner-light-green.jpg"
+        }
+      },
+      "index-biodegradable": {
+        "type": "index-biodegradable",
+        "settings": {
+          "title": "Wildlife",
+          "sub_title": "Enhancing biodiversity is our responsibility",
+          "caption": "<p>• The business began when we stopped cutting hedges annually to help wildlife. We then found lots of sloes all over the farm’s hedges and the idea for the business began. <\/p><p>\n<\/p><p>• As sloes can only grow on wildlife-friendly hedges, by buying more sloes we get more wildlife-friendly hedges! <\/p><p>\n<\/p><p>• We have planted flower-rich micro meadows wherever we can around our buildings to help bees and butterflies <\/p><p>\n<\/p><p>• Founder Joff Curtoys (ecologist\/conservationist) works closely with Richard Hudson, who manages Green Farm, to help create wildlife habitats; from wildflower margins, wild bird feed crops, to ponds and woodland. <\/p><p>\n\n<\/p><p><\/p>",
+          "action_text": "More information",
+          "link": "shopify:\/\/pages\/about-us",
+          "banner": "shopify:\/\/shop_images\/image-4.jpg",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/banner-light-green-hedgeriw.jpg"
+        }
+      },
+      "index-low-energy": {
+        "type": "index-low-energy",
+        "settings": {
+          "title": "Re-use, Re-purpose or Re-cycle",
+          "sub_title": "Our day-to-day actions really matter.",
+          "caption": "<p>• All cardboard is re-used or recycled.  The recycling involves composting via farm animal bedding. After the composting it goes back onto the fields here at Green Farm as soil conditioner. <\/p><p> <\/p><p>• The botanicals from the gin distillation process are composted and put back into the soil <\/p><p>   <\/p><p> • Gin-soaked sloes are used in our Sloe Gin Truffles and Sloe Chutney, what aren’t used are composted <\/p><p> <\/p><p> • Staff kitchen waste, from tea bags to apple cores, is composted here and all plastics and card is recycled. <\/p><p> <\/p><p> • All waste glass is recycled <\/p><p> <\/p><p>• We minimise printing and recycle paper used in the office<\/p><p><\/p>",
+          "action_text": "",
+          "link": "",
+          "banner": "shopify:\/\/shop_images\/image-1.jpg",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/banner-light-green-hedgerow_v2.jpg"
+        }
+      },
+      "index-wildlife": {
+        "type": "index-wildlife",
+        "settings": {
+          "title": "What we use",
+          "sub_title": "Minimising our carbon-footprint with what we buy",
+          "caption": "<p> • We have specially designed packaging to ensure that customers receive products in one piece without the need for any plastic, including the tape.<\/p><p>  <\/p><p> • Sample cups are made from biodegradable plant starch. <\/p><p> <\/p><p> • We only use fully bio-degradable lined-paper or plant starch cups\/glasses at pop-up bars. <\/p><p> <\/p><p> • We only use paper bags for bottle sales at shows and events. We sell reusable cotton tote bags.<\/p><p><\/p>",
+          "special_statement": "",
+          "action_text": "",
+          "link": "",
+          "banner": "shopify:\/\/shop_images\/image-2.jpg",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/banner-light-green-hedgeriw.jpg"
+        }
+      },
+      "index-environmental-action2": {
+        "type": "index-environmental-action2",
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "caption": "",
+          "action_text": "",
+          "color_background": "",
+          "background": "shopify:\/\/shop_images\/banner-hedgerows-and-fields_v2.jpg"
+        }
+      },
+      "index-ethos": {
+        "type": "index-ethos",
+        "settings": {
+          "title": "",
+          "sub_title": "",
+          "caption": ""
+        }
+      },
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "message": true,
+          "home_page_only": true,
+          "header_padding": 34,
+          "message_text": "Free delivery with all orders over £70",
+          "free_shipping_countdown": true,
+          "free_shipping_threshold": 70,
+          "free_shipping_notqualified": "Add just [price] to your cart to receive free shipping!",
+          "free_shipping_qualified": "Your order qualifies for free shipping!",
+          "message_link": "shopify:\/\/collections\/all",
+          "color_bg": "#000000",
+          "color_text": "#ffffff",
+          "color_text_hover": "#eeeeee",
+          "font_size": 14
+        }
+      },
+      "index-castleabout": {
+        "type": "index-castleabout",
+        "blocks": {
+          "11f6c260-3751-4bcc-a151-c7437643c88c": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/CAG_Castle_Howard_Gin_034.jpg",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "5a430b28-eb35-426b-ac05-b173bba2a209": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/CAG_Castle_Howard_Gin_004.jpg",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "b37c0717-b2de-4723-b133-501b581dcd29": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/DJI_0325.jpg",
+              "title": "",
+              "caption": ""
+            }
+          },
+          "3c3185d8-674f-4a35-9635-804a94f83ad6": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/CAG_Castle_Howard_Gin_028.jpg",
+              "title": "",
+              "caption": ""
+            }
+          }
+        },
+        "block_order": [
+          "11f6c260-3751-4bcc-a151-c7437643c88c",
+          "5a430b28-eb35-426b-ac05-b173bba2a209",
+          "b37c0717-b2de-4723-b133-501b581dcd29",
+          "3c3185d8-674f-4a35-9635-804a94f83ad6"
+        ],
+        "settings": {
+          "title": "About Us",
+          "sub_title": "",
+          "caption": "The partnership has been developed out of shared interests between Castle Howard’s estate conservation programme and the ethos of Barton-le-Willows-based Sloemotion, which has pioneered the use of locally foraged botanicals – including sloes and hedgerow fruits - to add to their classic London gin ingredients. The ethos and values that inspired Sloemotion struck a chord with Castle Howard, Joff Curtoys (with a background in ecology and conservation) - one of the brothers behind the Sloemotion brand - sits on the Conservation Advisory Board at Castle Howard, and their work using botanicals sourced from their local surroundings at Green Farm resonated with our wish to develop high quality, sustainable products from the Castle Howard Estate. We are excited to launch the Castle Howard Gin using ingredients foraged from the Estate."
+        }
+      },
+      "index-castleproduct": {
+        "type": "index-castleproduct",
+        "settings": {
+          "title": "Introducing our premium gin.",
+          "sub_title": "",
+          "caption": "Castle Howard Gin is a classic juniper led, dry spirit with aromatic extracts of coriander, cardamom, orange peel and St. John’s Wort and further enhanced by tinctures of floral notes from Meadowsweet and sweet sour elements from Crab apple, both foraged from around the estate. Finally, the dry gin finish is accompanied by citrus notes from Lemon Balm, harvested from the wonderful formal gardens",
+          "action_text": "Buy Now",
+          "link": "\/products\/castle-howard-gin",
+          "banner": "shopify:\/\/shop_images\/CAG_Castle_Howard_Gin_035.jpg",
+          "color_background": "#eeeeee",
+          "background": "shopify:\/\/shop_images\/greybackground.png"
+        }
+      },
+      "index-castlecolumns": {
+        "type": "index-castlecolumns",
+        "blocks": {
+          "42f7c831-259c-4ce1-8bd7-ab3c4f28636b": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smalelDJI_0317.png",
+              "title": "",
+              "caption": "Spirits are high at Castle Howard as the historic Yorkshire estate launches a new premium quality gin in partnership with local business Sloemotion Distillery. Inspired by both the 8000acre estate and the ethos of the distillery, the Castle Howard Gin uses ingredients foraged from across the estate.",
+              "color_background": "#50324c",
+              "backgroud": "shopify:\/\/shop_images\/castle.png"
+            }
+          },
+          "ccf0d5a6-31ea-4f1d-8280-b02590ac7ff4": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallCAG_Castle_Howard_Gin_028_dbe8c3e2-512d-4eb9-8cdd-1d1fc6bfbadf.png",
+              "title": "",
+              "caption": "The Castle Howard Gin is a classic juniper led, dry spirit with aromatic extracts of coriander, cardamom, orange peel and St. John’s Wort and further enhanced by tinctures of floral notes from Meadowsweet and sweet sour elements from Crab apple, both foraged from across the estate. Finally, the dry gin finish is accompanied by citrus notes from Lemon Balm, harvested from the formal gardens.",
+              "color_background": "#000000",
+              "backgroud": "shopify:\/\/shop_images\/ginSD_Bottle_vectors_2d24b8d4-bdec-4bdf-b95e-ec87c365ace1.png"
+            }
+          },
+          "16fb1f07-5332-493c-9891-7e0ff1d2cd20": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallerCastle_Howard_Harvest_Festival_-18.png",
+              "title": "",
+              "caption": "\"The ethos and values that inspired Sloemotion struck a chord with us here at Castle Howard,” says Nicholas Howard. “Joff Curtoys, Founder of Sloemotion Distillery (with a background in ecology and conservation) who sits on our Conservation Advisory Board, and their work using botanicals sourced from their local surroundings at Green Farm resonated with our wish to develop high quality, sustainable products from the estate here.\"",
+              "color_background": "#50324c",
+              "backgroud": "shopify:\/\/shop_images\/lion.png"
+            }
+          },
+          "83b89631-b06b-4d5d-92a1-89bf3c5dbeb8": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallCAG_Castle_Howard_Gin_017.png",
+              "title": "",
+              "caption": "The gin partnership has been developed out of shared interests between Castle Howard’s estate conservation programme and the ethos of Barton-le-Willows-based Sloemotion Distillery, which has pioneered the use of locally foraged botanicals – including sloes and hedgerow fruits - to add to their classic London Dry Gin ingredients.",
+              "color_background": "#000000",
+              "backgroud": "shopify:\/\/shop_images\/gin_4x_6a795ef5-aa84-4bbb-a1eb-5c835378c30d.png"
+            }
+          }
+        },
+        "block_order": [
+          "42f7c831-259c-4ce1-8bd7-ab3c4f28636b",
+          "ccf0d5a6-31ea-4f1d-8280-b02590ac7ff4",
+          "16fb1f07-5332-493c-9891-7e0ff1d2cd20",
+          "83b89631-b06b-4d5d-92a1-89bf3c5dbeb8"
+        ],
+        "settings": {}
+      },
+      "index-perfectserve": {
+        "type": "index-perfectserve",
+        "settings": {
+          "title": "Perfect Serve",
+          "sub_title": "",
+          "caption": "<p>Fill a glass with ice<\/p><p>\n\n<\/p><p>Add 50ml Castle Howard Gin<\/p><p>\n\n<\/p><p>Pour in a premium tonic (quantity as desired)<\/p><p>\n\n<\/p><p>Garnish with lemon peel and\/or a sprig of lemon balm (optional)<\/p><p><\/p>",
+          "action_text": "Buy Now",
+          "link": "https:\/\/www.sloemotiondistillery.com\/products\/castle-howard-gin?ose=false",
+          "banner": "shopify:\/\/shop_images\/smallCAG_Castle_Howard_Gin_029.png",
+          "color_background": "#eeeeee",
+          "background": "shopify:\/\/shop_images\/greybackground.png"
+        }
+      },
+      "index-julrecipe": {
+        "type": "index-julrecipe",
+        "blocks": {
+          "3deb0d83-4031-4d45-b097-cdbee08ddef3": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallIMG_20210715_164529.860.png",
+              "title": "Clover Club Cocktail",
+              "caption": "Ingredients\n6 raspberries muddled\n25ml sugar syrup (made with 2 parts sugar, 1 part boiling water)\n25ml Lemon juice\n50ml Hedgerow Gin with Rhubarb and Raspberry\n1 egg white\n<p><a href=\"https:\/\/www.sloemotiondistillery.com\/pages\/clover-club-cocktail\">Read More<\/a><\/p>",
+              "color_background": "#4e7681",
+              "backgroud": "shopify:\/\/shop_images\/smallsHS_Joff.png"
+            }
+          },
+          "6d219c82-955d-4320-80cb-b4f92514bc95": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallIMG_20210715_164540.765.png",
+              "title": "Hedgerow 75",
+              "caption": "Ingredients\n1 tbsp juice of lemon\n1 tsp sugar syrup (see above)\n50ml Hedgerow Gin\nChampagne (or Prosecco)\nIce\n<p><a href=\"https:\/\/www.sloemotiondistillery.com\/pages\/hedgerow-75\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/ginSD_Bottle_vectors_2d24b8d4-bdec-4bdf-b95e-ec87c365ace1.png"
+            }
+          },
+          "a11cf3b4-033d-403e-86d5-cc9785fd2cb8": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smallIMG_20210715_164553.773.png",
+              "title": "Bees Knees",
+              "caption": "Ingredients\n50ml Hedgerow Gin\n1 tbsp honey\nJuice of ½ lemon\nJuice of ½ orange\n<p><a href=\"https:\/\/www.sloemotiondistillery.com\/pages\/bees-knees\">Read More<\/a><\/p>",
+              "color_background": "#cbe3c2",
+              "backgroud": "shopify:\/\/shop_images\/sHS_Bee.png"
+            }
+          },
+          "dcf8c4c5-4e9b-4e66-9b42-633996738385": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/smalIMG_20210715_164604.972.png",
+              "title": "Yorkshire Garden Cocktail",
+              "caption": "Ingredients\n50ml Hedgerow Botanical Vodka\n10ml Elderflower Cordial\nCloudy apple juice\n<p><a href=\"https:\/\/www.sloemotiondistillery.com\/pages\/yorkshire-garden-cocktail\/\">Read More<\/a><\/p>",
+              "color_background": "#007788",
+              "backgroud": "shopify:\/\/shop_images\/foximage.png"
+            }
+          }
+        },
+        "block_order": [
+          "3deb0d83-4031-4d45-b097-cdbee08ddef3",
+          "6d219c82-955d-4320-80cb-b4f92514bc95",
+          "a11cf3b4-033d-403e-86d5-cc9785fd2cb8",
+          "dcf8c4c5-4e9b-4e66-9b42-633996738385"
+        ],
+        "settings": {}
+      }
+    },
+    "content_for_index": [
+      "1523936399802",
+      "1523936805616",
+      "1523936555030",
+      "1523937223653",
+      "1523937570794",
+      "1524109074747"
+    ]
+  }
+}

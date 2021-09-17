@@ -1,0 +1,51 @@
+<style>
+  footer.footer, .nav-menu, .search-icon, .show-info .icon-navicon, .nav-icon-left {
+  	display:none !important;
+  }
+  .main-header-wrapper {
+    padding: 15px;
+  }
+  #shopify-section-index-slideshow {
+  	margin-top: 0px;
+    padding-top: 0px;
+  }
+  #shopify-section-index-slideshow .item.image img {
+  	width: 100%;
+  }
+</style>
+<script>
+  var logoEls = document.querySelectorAll(".header-logo-image");
+  if (logoEls.length > 0) {
+    logoEls.forEach(function(el){
+      el.setAttribute("src", "https://cdn.shopify.com/s/files/1/0534/6938/0788/files/castle_howard_300x300.png?v=1619772411");
+    });
+    
+  }
+  var logoLeft = document.querySelector(".main-header-inner .nav-logo img");
+  if (logoLeft) {
+    logoLeft.setAttribute("src", "https://cdn.shopify.com/s/files/1/0534/6938/0788/files/castle_howard_300x300.png?v=1619772411");
+  }
+</script>
+<!-- <section class="heading-content heading-page"> 
+  <div class="container">
+    <div class="row">
+      <div class="page-heading-inner heading-group">
+        <div class="breadcrumb-group">
+          <h1 class="page-title">{{ page.title }}</h1>
+          <div class="breadcrumb clearfix">
+            <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="{{ shop.url }}" title="{{ shop.name | escape }}" itemprop="url"><span itemprop="title">{{ 'general.breadcrumbs.home' | t }}</span></a></span>
+            <span class="arrow-space"></span>
+            <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+              <a href="{{ page.url }}" title="{{ page.title }}" itemprop="url"><span itemprop="title">{{ page.title }}</span></a>
+            </span>              
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>  
+</section> -->
+{% section 'index-slideshow' %}
+
+{% section 'index-castleproduct' %}
+{% section 'index-castlecolumns' %}
+{% section 'index-perfectserve' %}

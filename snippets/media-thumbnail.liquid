@@ -1,0 +1,15 @@
+<div class="image-vertical image{% if featured_media == media %} active{% endif %}" data-product-thumbnail-id="{{ media.id }}">
+  <a {% if media.media_type == 'image' %}href="{{ media | product_img_url: '1024x1024' }}"{% endif %} class="cloud-zoom-gallery {% if media.media_type == 'image' %}product-thumbnail-image{% endif %}">
+    <img src="{{ media.preview_image | img_url: '370x370', crop:'center' }}" alt="{{ media.alt }}"/>
+    {%- if media.media_type == 'video' or media.media_type =='external_video' -%}
+    <div class="product-thumbnail-badge">
+      {% include 'icon-video' %}
+    </div>
+    {%- endif -%}
+    {%- if media.media_type == 'model' -%}
+    <div class="product-thumbnail-badge">
+      {% include 'icon-3d' %}
+    </div>
+    {%- endif -%}
+  </a>
+</div>

@@ -1,0 +1,19 @@
+<div id="{{ media_wrapper_id }}"
+    class="product-single__media-wrapper {% unless featured_media == media %} hide{% else %} active{% endunless %} {% if media.media_type == 'video' or media.media_type == 'external_video' %} product-media-type-video{% elsif media.media_type == 'model' %} product-media-type-model{% endif %}"
+    data-product-single-media-wrapper="{{ forloop.index }}"
+    {% if media.media_type == 'external_video' %} data-video-id="{{ media.external_id }}"{% endif %}
+    data-media-id="{{ media.id }}">
+{% case media.media_type %}
+  {% when 'image' %}
+    <img src="{{ media | img_url: '', crop: 'center', scale: 2 }}" data-media-item data-carousel-media-image="{{ image_item }}" data-src="{{ media | img_url: product_thumb_size, crop: 'center', scale: 2 }}" data-height="{{ section.settings.image_height }}" data-width="{{ section.settings.image_width }}" class="media-item media-image" alt="{{ media.alt | escape }}"/>
+    {%- assign image_item = image_item | plus: 1 -%}
+  {% when 'external_video' %}
+    {{ media | external_video_tag: class: 'media-item', data-height: '100px', data-media-item:'', data-media-external-video-item:'' }}
+  {% when 'video' %}
+    {{ media | video_tag: controls: true, data-media-item:'', class: 'media-item', data-media-video-item:'' }}
+  {% when 'model' %}
+    {{ media | model_viewer_tag: image_size: 'master', class: 'media-item', reveal: 'interaction', toggleable: true, data-model-id: media.id, data-media-item:'' }}
+  {% else %}
+    {{ media | media_tag: class: 'media-item', image_size: thumb_size, data-media-item:'' }}
+  {% endcase %}
+</div>
