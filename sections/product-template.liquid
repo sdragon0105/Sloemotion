@@ -43,7 +43,7 @@
                         ]
                       });
                     </script>
-                  </div>                
+                  </div>
                   {% endif %}
                   <div id="featuted-image" class="image featured">
                     {% if product.media.size > 0 %}
@@ -69,13 +69,13 @@
                           {% include 'media-thumbnail', media: media %}
                         {%- endfor -%}
                       </div>
-                    </div>                  
+                    </div>
                   </div>
                   {% endif %}
-                </div>                
+                </div>
               </div>
               <div class="col-md-5" id="product-information" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-                <h1 itemprop="name" class="title">{{ product.title }}</h1>   
+                <h1 itemprop="name" class="title">{{ product.title }}</h1>
                 {% if section.settings.enable_rating_star %}
                 <div class="rating-content">
                   <div class="rating-description">
@@ -86,7 +86,7 @@
                 {% assign variant = product.selected_or_first_available_variant %}
                 <div class="product-price">
                   <meta itemprop="priceCurrency" content="{{ shop.currency }}">
-                  <meta itemprop="price" content="{{variant.price | money_without_currency | strip_html  }}">  
+                  <meta itemprop="price" content="{{variant.price | money_without_currency | strip_html  }}">
                   <h2 class="price" id="price-preview">{{ variant.price | money }}{% if variant.price < variant.compare_at_price %} <del>{{ variant.compare_at_price | money }}</del>{% endif %}</h2>
                 </div>
                 {% if section.settings.enable_inventory_management %}
@@ -107,24 +107,24 @@
                     </div>
                   </div>
                 {% endif %}
-                
+
                 <form id="add-item-form" action="/cart/add" method="post" class="variants">
                   {% if section.settings.enable_quickoverview %}
-                    <div class="description" itemprop="description">                      
+                    <div class="description" itemprop="description">
                       {{ product.description | strip_html | truncatewords: settings.product_detail_qov_lenght }}
                     </div>
                   {% endif %}
-                   <button id="add-to-cart" onclick="change_qs_quantity('');" class="_btn add-to-cart" type="submit" name="add">                          
+                   <button id="add-to-cart" onclick="change_qs_quantity('');" class="_btn add-to-cart" type="submit" name="add">
                     <span>{{"products.product.add_to_cart"|t}}</span>
                   </button>
-                  {% if section.settings.enable_quickoverview %}
+                  <!-- {% if section.settings.enable_quickoverview %}
                   	<div id="shopify-product-reviews" data-id="{{product.id}}">{{ product.metafields.spr.reviews }}</div>
-                  {% endif %}
+                  {% endif %} -->
                   {% if product.variants.size == 1 and product.variants.first.title contains 'Default' %}
                   {% assign hide_default_title = true %}
                   {% endif %}
-                  
-                  <div class="product-options {% if hide_default_title %}no-options {% endif %}">		
+
+                  <div class="product-options {% if hide_default_title %}no-options {% endif %}">
                     <link itemprop="availability" href="http://schema.org/{% if product.available %}InStock{% else %}OutOfStock{% endif %}">
                     <div class="product-type">
                       {% if section.settings.color_swatch %}
@@ -159,7 +159,7 @@
                       <div class="purchase">
                         {% unless product.available %}
                         <p>{{ 'products.product.sold_out_html' | t }}</p>
-                        {% else %}                        
+                        {% else %}
                         <button class="_btn add-to-cartMobile addToCartMobile add-to-cart">
                           <span>{{"products.product.add_to_cart"|t}}</span>
                         </button>
@@ -221,11 +221,14 @@
                   </div>
                   {% endif %}
                 </div>
-              </div>              
+                {% if section.settings.enable_quickoverview %}
+                  <div id="shopify-product-reviews" data-id="{{product.id}}">{{ product.metafields.spr.reviews }}</div>
+                {% endif %}
+              </div>
             </div>
-          </div>          
+          </div>
         </div>
-        {% if section.settings.display_tab %}        
+        {% if section.settings.display_tab %}
         <div class="tabs-information-layout">
           <div class="tabs-information-content">
             <div id="tabs-information" class="col-md-12 tabs-information" >
@@ -246,7 +249,7 @@
                   {% endif %} -->
                   {% if section.settings.product_tab_review %}
                   <div class="tab-pane fade " id="review">
-                    <div id="customer_review">  
+                    <div id="customer_review">
                       <div class="preview_content"><div id="shopify-product-reviews" data-id="{{product.id}}">{{ product.metafields.spr.reviews }}</div></div>
                     </div>
                   </div>
@@ -255,13 +258,13 @@
               </div>
             </div>
           </div>
-        </div>       
+        </div>
         {% endif %}
         {% if section.settings.show_related_products %}
         <div class="related-products-layout">
           <div class="related-products-content related-products-full">
             {% include 'products-relatedpro' %}
-          </div>          
+          </div>
         </div>
         {% endif %}
       </div>
@@ -300,10 +303,10 @@
       } else {
         jQuery('#price-preview').html(Shopify.formatMoney(variant.price, quickShop_money_format));
       }
-    } else {   
+    } else {
       {% if section.settings.enable_inventory_management %}
       $('.product-stock').addClass('management-out').find('.management-description').html('{{ 'products.product.out_stock' |t }}');
-      {% endif %} 
+      {% endif %}
       jQuery('#add-to-cart').addClass('disabled').attr('disabled', 'disabled'); // set add-to-cart button to unavailable class and disable button
       var message = variant ? {{ 'products.product.sold_out_html' | t | json }} : {{ 'products.product.unavailable_html' | t | json }};
       jQuery('#price-preview').html(message);
@@ -316,8 +319,8 @@
       		$(this).parents('.thumbs').find('.image').removeClass('active');
             $(this).addClass('active');
           });
-      
-      
+
+
           new Shopify.OptionSelectors("product-select", { product: {{ product | json }}, onVariantSelected: selectCallback, enableHistoryState: true });
 		  {% if product.available and product.options.size > 1 %}
             Shopify.linkOptionSelectors({{ product | json }});
