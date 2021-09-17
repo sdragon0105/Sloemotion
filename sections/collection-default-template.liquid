@@ -15,10 +15,11 @@
         </div>
         {% paginate collection.products by section.settings.pagination_limit %}
         <div class="collection-mainarea  col-sm-12 clearfix">
-          <!-- <div class="collection-toolbar">
+          {% comment %}
+          <div class="collection-toolbar">
             <div class="group-toolbar">
               <div class="group-left">
-
+                <!-- Filter Collections -->
                 {% if section.settings.collection_filter %}
                 <div class="filterCollections-layout">
                   <a href="javascript:void(0)" class="show-leftsidebar">
@@ -27,7 +28,7 @@
                   </a>
                 </div>
                 {% endif %}
-
+                <!-- Sort by -->
                 {% if section.settings.collection_sort and collection.products_count > 1 %}
                 <div class="sortBy">
                   <div class="sortButtonWarper dropdown-toggle" data-toggle="dropdown">
@@ -64,7 +65,7 @@
                   {{'collections.general.showing'|t:x:xnumber,y:ynumber,z:collection.products_count}}
                 </div>
                 {% endif %}
-
+                <!-- View as -->
                 {% if section.settings.collection_grid_list %}
                 <div class="grid_list">
                   <ul class="list-inline option-set hidden-xs" data-option-key="layoutMode">
@@ -79,7 +80,8 @@
                 {% endif %}
               </div>
             </div>
-          </div>  -->
+          </div>
+          {% endcomment %}
           <div class="collection-items clearfix">
             <div class="products">
               {% if section.settings.products_per_row == '3' %}
